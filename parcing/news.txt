@@ -1,0 +1,810 @@
+=== ЗВІТ ПРО КРИПТОВАЛЮТНІ НОВИНИ (2025-10-23 13:11:33) ===
+Запитаний період: 7d
+Джерело: NewsAPI.org
+
+--- СТАТТЯ 1 ---
+ЗАГОЛОВОК: Bitcoin Price Slumps as Wall Street Prepares for Crypto ETF Frenzy
+ДЖЕРЕЛО: Gizmodo.com
+ДАТА ПУБЛІКАЦІЇ: 2025-10-17T17:40:25Z
+ОПИС: It's been a rough week for crypto.
+ПОСИЛАННЯ: https://gizmodo.com/bitcoin-price-slumps-as-wall-street-prepares-for-crypto-etf-frenzy-2000673653
+--------------------------------------------------
+
+--- СТАТТЯ 2 ---
+ЗАГОЛОВОК: Why Did Coinbase Burn This $25 Million NFT?
+ДЖЕРЕЛО: Gizmodo.com
+ДАТА ПУБЛІКАЦІЇ: 2025-10-21T20:45:54Z
+ОПИС: Eight episodes of a podcast? How much could that cost, 25 million dollars?
+ПОСИЛАННЯ: https://gizmodo.com/coinbase-cobie-echo-up-only-podcast-25-million-nft-2000675123
+--------------------------------------------------
+
+--- СТАТТЯ 3 ---
+ЗАГОЛОВОК: Hackers Dox ICE, DHS, DOJ, and FBI Officials
+ДЖЕРЕЛО: Wired
+ДАТА ПУБЛІКАЦІЇ: 2025-10-18T10:30:00Z
+ОПИС: Plus: A secret FBI anti-ransomware task force gets exposed, the mystery of the CIA’s Kryptos sculpture is finally solved, North Koreans busted hiding malware in the Ethereum blockchain, and more.
+ПОСИЛАННЯ: https://www.wired.com/story/security-news-this-week-hackers-dox-ice-dhs-doj-and-fbi-officials/
+--------------------------------------------------
+
+--- СТАТТЯ 4 ---
+ЗАГОЛОВОК: 91-year-old fast food chain launches limited-edition Steakburger
+ДЖЕРЕЛО: TheStreet
+ДАТА ПУБЛІКАЦІЇ: 2025-10-16T18:31:02Z
+ОПИС: Popular American fast food chain Steak 'n Shake is launching a limited-edition Bitcoin Steakburger to celebrate five months of it beginning to accept Bitcoin...
+ПОСИЛАННЯ: https://www.thestreet.com/crypto/91-year-old-fast-food-chain-bitcoin-burger
+--------------------------------------------------
+
+--- СТАТТЯ 5 ---
+ЗАГОЛОВОК: Ethereum Foundation Researcher’s Pivot Highlights Growing Cultural Divide in Crypto
+ДЖЕРЕЛО: Gizmodo.com
+ДАТА ПУБЛІКАЦІЇ: 2025-10-20T09:00:18Z
+ОПИС: Is Satoshi's original vision becoming little more than a faint memory?
+ПОСИЛАННЯ: https://gizmodo.com/ethereum-researcher-pivot-crypto-cultural-divide-2000674151
+--------------------------------------------------
+
+--- СТАТТЯ 6 ---
+ЗАГОЛОВОК: Melania Trump Used as ‘Window-Dressing’ in Elaborate Memecoin Fraud, Legal Filing Claims
+ДЖЕРЕЛО: Wired
+ДАТА ПУБЛІКАЦІЇ: 2025-10-21T19:30:20Z
+ОПИС: The first lady of the United States became a pawn in an intricate memecoin scam that resulted in millions of dollars in losses, crypto investors have alleged.
+ПОСИЛАННЯ: https://www.wired.com/story/melania-trump-used-as-window-dressing-in-elaborate-memecoin-fraud-legal-filing-claims/
+--------------------------------------------------
+
+--- СТАТТЯ 7 ---
+ЗАГОЛОВОК: Long Airport Lines and Disrupted Check-Ins as AWS Outage Wreaks Havoc on Half The Internet
+ДЖЕРЕЛО: Gizmodo.com
+ДАТА ПУБЛІКАЦІЇ: 2025-10-20T15:05:21Z
+ОПИС: Users around the world were also unable to access crypto wallets and order food online.
+ПОСИЛАННЯ: https://gizmodo.com/long-airport-lines-and-disrupted-check-ins-as-aws-outage-wreaks-havoc-on-half-the-internet-2000674300
+--------------------------------------------------
+
+--- СТАТТЯ 8 ---
+ЗАГОЛОВОК: Palmer Luckey’s AI and Crypto-Focused Bank Wins Conditional Approval
+ДЖЕРЕЛО: Gizmodo.com
+ДАТА ПУБЛІКАЦІЇ: 2025-10-16T12:30:02Z
+ОПИС: The bank is called Erebor, another tech venture from the Tolkien universe.
+ПОСИЛАННЯ: https://gizmodo.com/palmer-luckeys-ai-and-crypto-focused-bank-wins-conditional-approval-2000672899
+--------------------------------------------------
+
+--- СТАТТЯ 9 ---
+ЗАГОЛОВОК: How anonymous is bitcoin? US seizure of tycoon's US$13 billion in tokens raises questions
+ДЖЕРЕЛО: Yahoo Entertainment
+ДАТА ПУБЛІКАЦІЇ: 2025-10-17T09:30:00Z
+ОПИС: The seizure by US authorities of US$13.4 billion worth of bitcoin from an alleged Cambodian criminal has raised questions over the safety of the digital...
+ПОСИЛАННЯ: https://finance.yahoo.com/news/anonymous-bitcoin-us-seizure-tycoons-093000044.html
+--------------------------------------------------
+
+--- СТАТТЯ 10 ---
+ЗАГОЛОВОК: Ethereum Price Flashes 3 Bullish Signals as Whales Scoop Up $600 Million in ETH
+ДЖЕРЕЛО: BeInCrypto
+ДАТА ПУБЛІКАЦІЇ: 2025-10-16T08:00:00Z
+ОПИС: 3 familiar Ethereum price patterns are flashing again after weeks in a downtrend.Traders are watching $4,076 for a trend reversal.
+ПОСИЛАННЯ: https://beincrypto.com/ethereum-price-4076-bullish-signal-focus/
+--------------------------------------------------
+
+--- СТАТТЯ 11 ---
+ЗАГОЛОВОК: Signal President Spars With Elon Musk Over Trust in Private Messengers
+ДЖЕРЕЛО: Gizmodo.com
+ДАТА ПУБЛІКАЦІЇ: 2025-10-20T21:05:10Z
+ОПИС: One of the world's least trustworthy men doesn't trust Signal anymore.
+ПОСИЛАННЯ: https://gizmodo.com/signal-president-spars-with-elon-musk-over-trust-in-private-messengers-2000674571
+--------------------------------------------------
+
+--- СТАТТЯ 12 ---
+ЗАГОЛОВОК: 3 Altcoins Crypto Whales Are Buying Ahead of October Rate Cuts
+ДЖЕРЕЛО: BeInCrypto
+ДАТА ПУБЛІКАЦІЇ: 2025-10-18T07:56:10Z
+ОПИС: Whales are quietly adding these 3 altcoins ahead of October rate cuts, hinting at early positioning before the next big market move.
+ПОСИЛАННЯ: https://beincrypto.com/altcoins-crypto-whales-buying-before-october-fed-rate-cuts/
+--------------------------------------------------
+
+--- СТАТТЯ 13 ---
+ЗАГОЛОВОК: Treasury Secretary reveals support for 500% tariffs on China
+ДЖЕРЕЛО: TheStreet
+ДАТА ПУБЛІКАЦІЇ: 2025-10-20T20:21:44Z
+ОПИС: U.S. President Donald Trump, on Oct. 20, warned that his administration could impose tariffs as high as 155% on Chinese imports unless Beijing strikes what...
+ПОСИЛАННЯ: https://www.thestreet.com/crypto/trump-signals-155-china-tariffs-xi-jinping
+--------------------------------------------------
+
+--- СТАТТЯ 14 ---
+ЗАГОЛОВОК: 220,000 Bitcoin Addresses Vulnerable: US Government Revealed Novel Exploit
+ДЖЕРЕЛО: BeInCrypto
+ДАТА ПУБЛІКАЦІЇ: 2025-10-16T19:44:38Z
+ОПИС: US exploit reveals major Bitcoin wallet flaw; 220,000 addresses at risk from weak key generation. Check your security exposure.
+ПОСИЛАННЯ: https://beincrypto.com/bitcoin-wallet-vulnerability-us-government-exploit/
+--------------------------------------------------
+
+--- СТАТТЯ 15 ---
+ЗАГОЛОВОК: Bitcoin And Ether Lead Crypto Selloff Amid Credit Concerns
+ДЖЕРЕЛО: Forbes
+ДАТА ПУБЛІКАЦІЇ: 2025-10-17T14:06:28Z
+ОПИС: Both leading cryptocurrencies surged to fresh records in recent weeks, only to be pulled down by market volatility.
+ПОСИЛАННЯ: https://www.forbes.com/sites/tylerroush/2025/10/17/bitcoin-and-ether-lead-crypto-selloff-amid-credit-concerns/
+--------------------------------------------------
+
+--- СТАТТЯ 16 ---
+ЗАГОЛОВОК: Forget the AI bubble. Why investors should be wary of this year's frenzy for crypto treasuries.
+ДЖЕРЕЛО: Business Insider
+ДАТА ПУБЛІКАЦІЇ: 2025-10-19T09:15:02Z
+ОПИС: There's been an explosion of companies announcing pivots to crypto. Here's why investors should be cautious on the trend.
+ПОСИЛАННЯ: https://www.businessinsider.com/digital-asset-treasury-bubble-crypto-bitcoin-bnb-solana-ethereum-2025-10
+--------------------------------------------------
+
+--- СТАТТЯ 17 ---
+ЗАГОЛОВОК: How Apple’s walled garden protects ICE
+ДЖЕРЕЛО: The Verge
+ДАТА ПУБЛІКАЦІЇ: 2025-10-21T20:04:02Z
+ОПИС: Hello and welcome to Regulator. Of all the strange, unintended consequences stemming from major lawsuits, I never thought that the Trump administration's power to force Apple to remove ICE-tracking mobile apps from its stores could have been connected to a le…
+ПОСИЛАННЯ: https://www.theverge.com/column/803693/ice-epic-games-apple-app-store
+--------------------------------------------------
+
+--- СТАТТЯ 18 ---
+ЗАГОЛОВОК: Modest Solana Investment Can Double Portfolio Returns, Study Finds
+ДЖЕРЕЛО: BeInCrypto
+ДАТА ПУБЛІКАЦІЇ: 2025-10-19T19:43:32Z
+ОПИС: A new study shows that adding small Solana allocations to traditional 60/40 portfolios helps to boost their efficiency.
+ПОСИЛАННЯ: https://beincrypto.com/solana-investment-profits-report/
+--------------------------------------------------
+
+--- СТАТТЯ 19 ---
+ЗАГОЛОВОК: Tech Bros Are Obsessed With Statue-Maxxing
+ДЖЕРЕЛО: Gizmodo.com
+ДАТА ПУБЛІКАЦІЇ: 2025-10-18T13:00:20Z
+ОПИС: Markers of a dying empire.
+ПОСИЛАННЯ: https://gizmodo.com/tech-bros-are-obsessed-with-statue-maxxing-2000673718
+--------------------------------------------------
+
+--- СТАТТЯ 20 ---
+ЗАГОЛОВОК: Can Ethereum Do to Bitcoin What Wall Street Once Did to Gold?
+ДЖЕРЕЛО: BeInCrypto
+ДАТА ПУБЛІКАЦІЇ: 2025-10-17T11:04:27Z
+ОПИС: Tom Lee says Ethereum could flip Bitcoin as tokenization accelerates, likening the shift to how Wall Street outgrew gold.
+ПОСИЛАННЯ: https://beincrypto.com/tom-lee-ethereum-to-surpass-bitcoin/
+--------------------------------------------------
+
+--- СТАТТЯ 21 ---
+ЗАГОЛОВОК: Crypto Markets Today: Bitcoin, Ether Drop as Selling Pressure Returns
+ДЖЕРЕЛО: CoinDesk
+ДАТА ПУБЛІКАЦІЇ: 2025-10-21T12:00:00Z
+ОПИС: Bitcoin and Ethereum fell sharply Tuesday, erasing weekend gains as traders assessed whether the market’s bounce formed a lower high.
+ПОСИЛАННЯ: https://www.coindesk.com/markets/2025/10/21/crypto-markets-today-btc-and-eth-slip-as-sell-pressure-returns-amid-potential-lower-high
+--------------------------------------------------
+
+--- СТАТТЯ 22 ---
+ЗАГОЛОВОК: US Seizes 15B BTC, Indicts Chairman: Forced Labor Scam Compounds, Crypto Fraud
+ДЖЕРЕЛО: Justice.gov
+ДАТА ПУБЛІКАЦІЇ: 2025-10-18T09:34:56Z
+ОПИС: An indictment was unsealed today in federal court in Brooklyn, New York, charging Cambodian national Chen Zhi, also known as Vincent, 37, the founder and chairman of Prince Holding Group (Prince Group), a multinational business conglomerate based in Cambodia,…
+ПОСИЛАННЯ: https://www.justice.gov/opa/pr/chairman-prince-group-indicted-operating-cambodian-forced-labor-scam-compounds-engaged
+--------------------------------------------------
+
+--- СТАТТЯ 23 ---
+ЗАГОЛОВОК: Bitcoin Loses $106K as Bullish Crypto Bets Rack up $800M in Liquidations
+ДЖЕРЕЛО: CoinDesk
+ДАТА ПУБЛІКАЦІЇ: 2025-10-17T08:37:18Z
+ОПИС: Bitcoin accounted for roughly $344 million in losses, followed by Ether at $201 million, and Solana (SOL) at $97 million.
+ПОСИЛАННЯ: https://www.coindesk.com/markets/2025/10/17/bitcoin-loses-usd106k-as-bullish-crypto-bets-rack-up-usd800m-in-liquidations
+--------------------------------------------------
+
+--- СТАТТЯ 24 ---
+ЗАГОЛОВОК: It’s ‘Over’—Bitcoin Suddenly Braced For A Massive 2026 Crypto Price Shock After Serious Crash Warning
+ДЖЕРЕЛО: Forbes
+ДАТА ПУБЛІКАЦІЇ: 2025-10-18T11:34:59Z
+ОПИС: Bitcoin has suddenly dropped toward $100,000, accelerating a sudden sell-off that hit the bitcoin price and crypto market last week...
+ПОСИЛАННЯ: https://www.forbes.com/sites/digital-assets/2025/10/18/this-will-be-brutal-bitcoin-suddenly-goes-into-free-fall-as-price-crash-panic-wipes-600-billion-from-crypto/
+--------------------------------------------------
+
+--- СТАТТЯ 25 ---
+ЗАГОЛОВОК: Binance co-founder makes bold Bitcoin prediction
+ДЖЕРЕЛО: TheStreet
+ДАТА ПУБЛІКАЦІЇ: 2025-10-20T21:59:09Z
+ОПИС: Binance co-founder and ex-CEO Changpeng “CZ” Zhao has once again expressed his long-term bullish outlook for Bitcoin (BTC), predicting that it will...
+ПОСИЛАННЯ: https://www.thestreet.com/crypto/binance-founder-bitcoin-prediction-gold-market-cap
+--------------------------------------------------
+
+--- СТАТТЯ 26 ---
+ЗАГОЛОВОК: Ld_preload, the Invisible Key Theft
+ДЖЕРЕЛО: Bomfather.dev
+ДАТА ПУБЛІКАЦІЇ: 2025-10-16T15:29:45Z
+ОПИС: How LD_PRELOAD can be used to steal keys without you knowing...
+ПОСИЛАННЯ: https://bomfather.dev/blog/ld-preload-the-invisible-key-theft/
+--------------------------------------------------
+
+--- СТАТТЯ 27 ---
+ЗАГОЛОВОК: BitMine Immersion Tech Boosts Holdings to $13.4B – What’s Driving the Accumulation?
+ДЖЕРЕЛО: Cryptonews
+ДАТА ПУБЛІКАЦІЇ: 2025-10-20T15:11:45Z
+ОПИС: BitMine Immersion Technologies, a Bitcoin and Ethereum network company focused on long-term crypto accumulation, has announced total holdings of $13.4...
+ПОСИЛАННЯ: https://cryptonews.com/news/bitmine-immersion-tech-boosts-holdings-to-1-34b-whats-driving-the-accumulation/
+--------------------------------------------------
+
+--- СТАТТЯ 28 ---
+ЗАГОЛОВОК: Lottery-fication of Everything: 0 day options, perps, parlays are now mainstream
+ДЖЕРЕЛО: Dopaminemarkets.com
+ДАТА ПУБЛІКАЦІЇ: 2025-10-21T21:05:26Z
+ОПИС: Parlays, zero day options, and perpetuals have gone mainstream. The world is getting stranger.
+ПОСИЛАННЯ: https://www.dopaminemarkets.com/p/the-lottery-fication-of-everything
+--------------------------------------------------
+
+--- СТАТТЯ 29 ---
+ЗАГОЛОВОК: Uniswap’s web app starts support for Solana
+ДЖЕРЕЛО: Biztoc.com
+ДАТА ПУБЛІКАЦІЇ: 2025-10-17T05:29:51Z
+ОПИС: This aims to address fragmentation in DeFi especially between Solana and Ethereum ecosystems, Uniswap noted.
+ПОСИЛАННЯ: https://biztoc.com/x/e644ca4378066129
+--------------------------------------------------
+
+--- СТАТТЯ 30 ---
+ЗАГОЛОВОК: Bitcoin’s Bullish October Is Headed to Be its Worst in 10 Years
+ДЖЕРЕЛО: CoinDesk
+ДАТА ПУБЛІКАЦІЇ: 2025-10-19T13:25:34Z
+ОПИС: The historical average for October sits around 19.8%, next to November's 42% which is the asset's strongest month.
+ПОСИЛАННЯ: https://www.coindesk.com/markets/2025/10/19/bitcoin-s-bullish-october-is-headed-to-become-its-worst-in-10-years
+--------------------------------------------------
+
+--- СТАТТЯ 31 ---
+ЗАГОЛОВОК: BlackRock’s bragging rights to fastest-growing ETFs
+ДЖЕРЕЛО: Fox Business
+ДАТА ПУБЛІКАЦІЇ: 2025-10-18T12:00:08Z
+ОПИС: Despite the recent pullback in crypto, BlackRock's digital ETFs are leading the industry as more retail and investment managers add crypto to their...
+ПОСИЛАННЯ: https://www.foxbusiness.com/markets/blackrocks-bragging-rights-fastest-growing-etfs
+--------------------------------------------------
+
+--- СТАТТЯ 32 ---
+ЗАГОЛОВОК: Crypto Market Collapse Risk: Panic Selling Tests Bitcoin, ETH, XRP, SOL
+ДЖЕРЕЛО: Cryptonews
+ДАТА ПУБЛІКАЦІЇ: 2025-10-17T18:37:18Z
+ОПИС: October hope has flipped to fear. The total crypto market cap sits near the mid $3.6 trillion range, with 24-hour volume jumping, a pattern that often...
+ПОСИЛАННЯ: https://cryptonews.com/news/crypto-market-collapse-risk-panic-selling-tests-bitcoin-eth-xrp-sol/
+--------------------------------------------------
+
+--- СТАТТЯ 33 ---
+ЗАГОЛОВОК: Hong Kong's Securities Regulator Approves First Solana ETF
+ДЖЕРЕЛО: CoinDesk
+ДАТА ПУБЛІКАЦІЇ: 2025-10-22T08:16:11Z
+ОПИС: Hong Kong beats the U.S. to listing a Solana ETF, though J.P. Morgan expects inflows to be modest compared to its BTC and ETH counterparts.
+ПОСИЛАННЯ: https://www.coindesk.com/markets/2025/10/22/hong-kong-regulator-approves-solana-etf
+--------------------------------------------------
+
+--- СТАТТЯ 34 ---
+ЗАГОЛОВОК: Bitcoin and Ethereum ETPs Available to UK Users via Blackrock, 21Shares, and Others
+ДЖЕРЕЛО: Coinspeaker
+ДАТА ПУБЛІКАЦІЇ: 2025-10-20T16:17:09Z
+ОПИС: Top global asset managers like BlackRock, 21Shares, WisdomTree, and Bitwise have opened access to Bitcoin BTC $110 762 24h volatility: 0.2% Market cap: $2.21...
+ПОСИЛАННЯ: https://www.coinspeaker.com/uk-bitcoin-ethereum-etps-retail/
+--------------------------------------------------
+
+--- СТАТТЯ 35 ---
+ЗАГОЛОВОК: Nork scammers work the blockchain to steal crypto from job hunters
+ДЖЕРЕЛО: Theregister.com
+ДАТА ПУБЛІКАЦІЇ: 2025-10-16T19:24:18Z
+ОПИС: If someone sends you a coding test, be wary of downloading it
+If you're a software developer looking for a job, North Korean scammers have an offer for you that's off the chain, the blockchain that is. These gangs have recently adopted a technique called Ethe…
+ПОСИЛАННЯ: https://www.theregister.com/2025/10/16/norks_abuse_blockchains_to_scam/
+--------------------------------------------------
+
+--- СТАТТЯ 36 ---
+ЗАГОЛОВОК: North Korean hackers found hiding crypto-stealing malware with Blockchain
+ДЖЕРЕЛО: TechRadar
+ДАТА ПУБЛІКАЦІЇ: 2025-10-17T16:35:00Z
+ОПИС: State-sponsored actors are using Ethereum and BNB to host malware and steal people's money.
+ПОСИЛАННЯ: https://www.techradar.com/pro/security/north-korean-hackers-found-hiding-crypto-stealing-malware-with-blockchain
+--------------------------------------------------
+
+--- СТАТТЯ 37 ---
+ЗАГОЛОВОК: Ethereum attracted more than 16K new devs over 9 months
+ДЖЕРЕЛО: Cointelegraph
+ДАТА ПУБЛІКАЦІЇ: 2025-10-17T03:42:48Z
+ОПИС: New crypto developers are seemingly flocking to the Ethereum ecosystem, followed by Solana and Bitcoin, according to new data from Electric Capital.
+ПОСИЛАННЯ: https://cointelegraph.com/news/ethereum-attracted-16k-new-developers-9-months
+--------------------------------------------------
+
+--- СТАТТЯ 38 ---
+ЗАГОЛОВОК: Nearly $6 Billion in Bitcoin and Ethereum Options Expire Amid Bearish Market Sentiment
+ДЖЕРЕЛО: BeInCrypto
+ДАТА ПУБЛІКАЦІЇ: 2025-10-17T05:59:26Z
+ОПИС: Bitcoin and Ethereum face rising bearish pressure as options data show heavy put flows and fragile sentiment amid political turmoil.
+ПОСИЛАННЯ: https://beincrypto.com/6-billion-bitcoin-ethereum-options-expire/
+--------------------------------------------------
+
+--- СТАТТЯ 39 ---
+ЗАГОЛОВОК: Hong Kong approves its first spot Solana ETF ahead of US
+ДЖЕРЕЛО: Cointelegraph
+ДАТА ПУБЛІКАЦІЇ: 2025-10-22T08:32:09Z
+ОПИС: The Hong Kong Securities and Futures Commission has approved the ChinaAMC Solana ETF, making it the city’s third crypto spot ETF after Bitcoin and Ethereum.
+ПОСИЛАННЯ: https://cointelegraph.com/news/hong-kong-approves-first-solana-spot-etf
+--------------------------------------------------
+
+--- СТАТТЯ 40 ---
+ЗАГОЛОВОК: Uptober Heats Up: Bitcoin Breaks Out… But What About the Altcoins?
+ДЖЕРЕЛО: International Business Times
+ДАТА ПУБЛІКАЦІЇ: 2025-10-20T23:29:56Z
+ОПИС: Bitcoin jumps past $108,000 (£81,000) in a strong October rebound as traders shift to altcoins like Ethereum, XRP and Solana, fuelling hopes of a wider crypto rally.
+ПОСИЛАННЯ: https://www.ibtimes.com/uptober-heats-bitcoin-breaks-out-what-about-altcoins-3787737
+--------------------------------------------------
+
+--- СТАТТЯ 41 ---
+ЗАГОЛОВОК: This ‘Will Be Brutal’—Bitcoin Suddenly Goes Into Free Fall As Price Crash Panic Wipes $600 Billion From Crypto
+ДЖЕРЕЛО: Forbes
+ДАТА ПУБЛІКАЦІЇ: 2025-10-17T08:22:57Z
+ОПИС: Bitcoin has suddenly dropped toward $100,000, accelerating a sudden sell-off that hit the bitcoin price and crypto market last week...
+ПОСИЛАННЯ: https://www.forbes.com/sites/digital-assets/2025/10/17/this-will-be-brutal-bitcoin-suddenly-goes-into-free-fall-as-price-crash-panic-wipes-600-billion-from-crypto/
+--------------------------------------------------
+
+--- СТАТТЯ 42 ---
+ЗАГОЛОВОК: The Making Of Trump’s Crypto Fortune
+ДЖЕРЕЛО: Forbes
+ДАТА ПУБЛІКАЦІЇ: 2025-10-16T13:02:23Z
+ОПИС: Trump’s evolution from Bitcoin critic to crypto champion ties his presidency and personal wealth to the rise of digital assets and the broader crypto market.
+ПОСИЛАННЯ: https://www.forbes.com/sites/beccabratcher/2025/10/16/the-making-of-trumps-crypto-fortune/
+--------------------------------------------------
+
+--- СТАТТЯ 43 ---
+ЗАГОЛОВОК: $15 Billion Bitcoin Seizure Exposes Challenges For US Crypto Reserve Strategy
+ДЖЕРЕЛО: Forbes
+ДАТА ПУБЛІКАЦІЇ: 2025-10-18T12:00:11Z
+ОПИС: The US seized $15 billion in Bitcoin from a transnational crime ring—testing Trump's proposed Strategic Bitcoin Reserve and revealing national security risks from crypto.
+ПОСИЛАННЯ: https://www.forbes.com/sites/jillgoldenziel/2025/10/18/15-billion-bitcoin-seizure-raises-questions-for-trumps-crypto-reserve-strategy/
+--------------------------------------------------
+
+--- СТАТТЯ 44 ---
+ЗАГОЛОВОК: MAGA Judges Insist You Shouldn’t Take Trump’s Social Media Too Seriously
+ДЖЕРЕЛО: Gizmodo.com
+ДАТА ПУБЛІКАЦІЇ: 2025-10-21T00:41:35Z
+ОПИС: Pro-Trump judges made excuses for Trump's bizarre posts. "The district court erred by placing too much weight on statements the President made on social media."
+ПОСИЛАННЯ: https://gizmodo.com/maga-judges-dont-take-social-media-seriously-2000674618
+--------------------------------------------------
+
+--- СТАТТЯ 45 ---
+ЗАГОЛОВОК: Your Favorite DAT May Not Be Safe, CZ Warns of Need for Third Party Audits As 'Bubble Bursts'
+ДЖЕРЕЛО: Crypto Coins News
+ДАТА ПУБЛІКАЦІЇ: 2025-10-17T11:02:15Z
+ОПИС: The disappearance of QMMM has intensified concerns over transparency and accountability in DATs. Binance’s CZ is calling for third-party custodians and...
+ПОСИЛАННЯ: https://www.ccn.com/news/crypto/your-favourite-dat-not-safe-cz-warns/
+--------------------------------------------------
+
+--- СТАТТЯ 46 ---
+ЗАГОЛОВОК: Crypto Bulls and Bears Lose $300M Each as Bitcoin Climbs to $113K, Then Dumps
+ДЖЕРЕЛО: CoinDesk
+ДАТА ПУБЛІКАЦІЇ: 2025-10-22T06:05:26Z
+ОПИС: BTC's overnight decline follows brief recovery attempt late last week and is indicative of how fragile sentiment remains heading into the final stretch of October.
+ПОСИЛАННЯ: https://www.coindesk.com/markets/2025/10/22/bulls-and-bears-lose-usd300m-each-as-bitcoin-climbs-to-usd103k-then-dumps
+--------------------------------------------------
+
+--- СТАТТЯ 47 ---
+ЗАГОЛОВОК: Ethereum-Based Uniswap Adds Solana Support in Win for Tackling DeFi Fragmentation
+ДЖЕРЕЛО: Biztoc.com
+ДАТА ПУБЛІКАЦІЇ: 2025-10-17T12:09:23Z
+ОПИС: Ethereum-Based Uniswap Adds Solana Support in Win for Tackling DeFi Fragmentation
+This could simplify the user experience, removing the need to use complex bridges or switch between different wallets and applications
+What to know:
+- Ethereum-based DEX Uniswap…
+ПОСИЛАННЯ: https://biztoc.com/x/d7a3b53415685d27
+--------------------------------------------------
+
+--- СТАТТЯ 48 ---
+ЗАГОЛОВОК: VanEck Files for Lido-Staked Ethereum ETF With US SEC
+ДЖЕРЕЛО: Coinspeaker
+ДАТА ПУБЛІКАЦІЇ: 2025-10-17T09:29:47Z
+ОПИС: Rather than waiting for the United States Securities and Exchange Commission (SEC) to decide on its other applications, VanEck has filed for a Lido Staked...
+ПОСИЛАННЯ: https://www.coinspeaker.com/vaneck-lido-staked-ethereum-etf/
+--------------------------------------------------
+
+--- СТАТТЯ 49 ---
+ЗАГОЛОВОК: Huobi Founder Li Lin Raises $1B With Partners to Accumulate Ethereum
+ДЖЕРЕЛО: Cryptonews
+ДАТА ПУБЛІКАЦІЇ: 2025-10-18T10:02:17Z
+ОПИС: Huobi founder Li Lin has joined forces with some of Asia’s earliest Ethereum backers to launch a $1 billion digital asset trust aimed at accumulating Ether (...
+ПОСИЛАННЯ: https://cryptonews.com/news/huobi-founder-li-lin-raises-1b-with-partners-to-accumulate-ethereum/
+--------------------------------------------------
+
+--- СТАТТЯ 50 ---
+ЗАГОЛОВОК: ‘We Scaled Ethereum, Got Zero Help’ – Polygon and Sonic Labs Slam Ethereum Foundation
+ДЖЕРЕЛО: Cryptonews
+ДАТА ПУБЛІКАЦІЇ: 2025-10-21T08:53:41Z
+ОПИС: Polygon co-founder Sandeep Nailwal publicly questioned his loyalty to Ethereum after years of contributing to the ecosystem without receiving support from...
+ПОСИЛАННЯ: https://cryptonews.com/news/we-scaled-ethereum-got-zero-help-polygon-and-sonic-labs-slam-ethereum-foundation/
+--------------------------------------------------
+
+--- СТАТТЯ 51 ---
+ЗАГОЛОВОК: Why Is Crypto Down Today? – October 17, 2025
+ДЖЕРЕЛО: Cryptonews
+ДАТА ПУБЛІКАЦІЇ: 2025-10-17T10:45:40Z
+ОПИС: The crypto market is down today, with the cryptocurrency market capitalization decreasing by 4.9%, falling to $3.67 trillion. Of the top 100 coins, 97 have...
+ПОСИЛАННЯ: https://cryptonews.com/news/why-is-crypto-down-today-october-17-2025/
+--------------------------------------------------
+
+--- СТАТТЯ 52 ---
+ЗАГОЛОВОК: Bitcoin rally to $114K highlights futures traders’ improving confidence
+ДЖЕРЕЛО: Cointelegraph
+ДАТА ПУБЛІКАЦІЇ: 2025-10-21T20:03:03Z
+ОПИС: Bitcoin, Solana and Ethereum traders are starting to feel bullish about futures again, but charts suggest sellers will continue taking profits at intra-day price tops.
+ПОСИЛАННЯ: https://cointelegraph.com/news/bitcoin-rally-to-114k-highlights-futures-traders-improving-confidence
+--------------------------------------------------
+
+--- СТАТТЯ 53 ---
+ЗАГОЛОВОК: ‘Ether Caught Fire’: ETH Surged as Capital Fled Bitcoin in Q3, CoinGecko Report Finds
+ДЖЕРЕЛО: CoinDesk
+ДАТА ПУБЛІКАЦІЇ: 2025-10-19T16:00:00Z
+ОПИС: ETH hit fresh highs while bitcoin cooled, as investors chased DeFi, altcoins, and tokenized assets. CoinGecko calls it a defining market shift.
+ПОСИЛАННЯ: https://www.coindesk.com/markets/2025/10/19/ether-caught-fire-eth-surged-as-capital-fled-bitcoin-in-q3-coingecko-report-finds
+--------------------------------------------------
+
+--- СТАТТЯ 54 ---
+ЗАГОЛОВОК: Crypto crash liquidates another $1bn as market bears ‘macro stress’
+ДЖЕРЕЛО: Dlnews.com
+ДАТА ПУБЛІКАЦІЇ: 2025-10-17T10:24:13Z
+ОПИС: Bitcoin is down 6% on the day. Macro headwinds and ETF outflows threaten to deepen the correction. Ongoing volatility expected in the global economy.
+ПОСИЛАННЯ: https://www.dlnews.com/articles/markets/crypto-tumbles-as-over-billion-wiped-out-in-liquidations/
+--------------------------------------------------
+
+--- СТАТТЯ 55 ---
+ЗАГОЛОВОК: ‘Are They Planning To Sell?’—Elon Musk Suddenly Sets Crypto Price Alarm Bells Ringing After Breaking His Silence On Bitcoin
+ДЖЕРЕЛО: Forbes
+ДАТА ПУБЛІКАЦІЇ: 2025-10-21T12:08:09Z
+ОПИС: Elon Musk’s rocket company SpaceX has moved almost $270 million worth of bitcoin, setting alarm bells ringing as crypto watchers ask if he’s "planning to sell."
+ПОСИЛАННЯ: https://www.forbes.com/sites/digital-assets/2025/10/21/are-they-planning-to-sell-elon-musk-suddenly-sets-crypto-price-alarm-bells-ringing-after-breaking-his-silence-on-bitcoin/
+--------------------------------------------------
+
+--- СТАТТЯ 56 ---
+ЗАГОЛОВОК: Bitcoin, Ether, XRP Drop Further. Why the Crypto Rebound Fizzled Out
+ДЖЕРЕЛО: Biztoc.com
+ДАТА ПУБЛІКАЦІЇ: 2025-10-21T10:43:13Z
+ОПИС: Bitcoin, Ether, XRP Drop Further. Why the Crypto Rebound Fizzled Out.
+ПОСИЛАННЯ: https://biztoc.com/x/9c9095d98cf954e7
+--------------------------------------------------
+
+--- СТАТТЯ 57 ---
+ЗАГОЛОВОК: Joe Lubin's Sharplink Gaming Resumes ETH Purchases, Bringing Holdings Over $3.5B
+ДЖЕРЕЛО: CoinDesk
+ДАТА ПУБЛІКАЦІЇ: 2025-10-21T13:11:29Z
+ОПИС: The Nasdaq-listed firm made its first ether purchase since August as the crypto correction weighs on digital asset treasuries.
+ПОСИЛАННЯ: https://www.coindesk.com/business/2025/10/21/joe-lubin-s-sharplink-gaming-resumes-eth-purchases-bringing-holdings-over-usd3-5b
+--------------------------------------------------
+
+--- СТАТТЯ 58 ---
+ЗАГОЛОВОК: Asia Morning Briefing: Bitcoin Holds Steady as Market Resets After Leverage Flush
+ДЖЕРЕЛО: CoinDesk
+ДАТА ПУБЛІКАЦІЇ: 2025-10-21T01:16:23Z
+ОПИС: Glassnode says last week’s selloff “cleared out excess without breaking structure,” while Enflux points to renewed institutional layering from Blockchain.com’s SPAC and Bitmine’s $800 million ETH buildout as signs of deeper market resilience.
+ПОСИЛАННЯ: https://www.coindesk.com/markets/2025/10/21/asia-morning-briefing-bitcoin-holds-steady-as-market-resets-after-leverage-flush
+--------------------------------------------------
+
+--- СТАТТЯ 59 ---
+ЗАГОЛОВОК: Altcoin Season Index Near 25 With Red Screens: Reading October Market Collapse
+ДЖЕРЕЛО: Cryptonews
+ДАТА ПУБЛІКАЦІЇ: 2025-10-17T15:39:47Z
+ОПИС: October often carries a hopeful tone for crypto. Today’s tape feels different. Both the Altcoin Season Index and the Fear and Greed Index hover at 25, a...
+ПОСИЛАННЯ: https://cryptonews.com/news/altcoin-season-index-near-25-with-red-screens-reading-october-market-collapse/
+--------------------------------------------------
+
+--- СТАТТЯ 60 ---
+ЗАГОЛОВОК: Huobi Founder Li Lin to Lead $1B Ether Treasury Firm: Bloomberg
+ДЖЕРЕЛО: CoinDesk
+ДАТА ПУБЛІКАЦІЇ: 2025-10-17T16:35:25Z
+ОПИС: Li Lin’s Avenir Capital is said to be teaming up with Asia's crypto pioneers to build a regulated vehicle focused on ether accumulation.
+ПОСИЛАННЯ: https://www.coindesk.com/business/2025/10/17/huobi-founder-li-lin-to-lead-usd1b-ether-treasury-firm-backed-by-asia-s-crypto-pioneers-bloomberg
+--------------------------------------------------
+
+--- СТАТТЯ 61 ---
+ЗАГОЛОВОК: Bitcoin, Ethereum recover ahead of Fed roundtable
+ДЖЕРЕЛО: Yahoo Entertainment
+ДАТА ПУБЛІКАЦІЇ: 2025-10-20T15:40:25Z
+ОПИС: None
+ПОСИЛАННЯ: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_2f753073-4023-4865-985f-a86cb5ac39d6
+--------------------------------------------------
+
+--- СТАТТЯ 62 ---
+ЗАГОЛОВОК: CZ Issues Crucial Safety Tip to BNB Digital Asset Treasury Firms
+ДЖЕРЕЛО: Coinspeaker
+ДАТА ПУБЛІКАЦІЇ: 2025-10-17T14:37:23Z
+ОПИС: As the number of firms investing in a corporate BNB BNB $1 056 24h volatility: 10.1% Market cap: $147.19 B Vol. 24h: $6.02 B treasury increases, Binance...
+ПОСИЛАННЯ: https://www.coinspeaker.com/cz-warns-bnb-treasury-safety/
+--------------------------------------------------
+
+--- СТАТТЯ 63 ---
+ЗАГОЛОВОК: Bitcoin Crash: A Canary In The Coal Mine
+ДЖЕРЕЛО: Forbes
+ДАТА ПУБЛІКАЦІЇ: 2025-10-19T11:25:31Z
+ОПИС: Bitcoin has crashed – not the sort of typical bitcoin meltdown, but an old-school, equity-style crash of around 25%.
+ПОСИЛАННЯ: https://www.forbes.com/sites/digital-assets/2025/10/19/bitcoin-crash-a-canary-in-the-coal-mine/
+--------------------------------------------------
+
+--- СТАТТЯ 64 ---
+ЗАГОЛОВОК: Latest Wave of ETF Filings Target Crypto Yield With Leverage and Staking
+ДЖЕРЕЛО: Crypto Coins News
+ДАТА ПУБЛІКАЦІЇ: 2025-10-17T10:32:15Z
+ОПИС: Asset managers are looking to expand beyond vanilla crypto ETFs. The latest proposals incorporate advanced strategies based on staking and leverage. Ark...
+ПОСИЛАННЯ: https://www.ccn.com/news/crypto/crypto-etf-filings-leverage-staking/
+--------------------------------------------------
+
+--- СТАТТЯ 65 ---
+ЗАГОЛОВОК: Why Crypto Fits Perfectly Into Eli Manning’s Alter Ego, Chad Powers
+ДЖЕРЕЛО: Forbes
+ДАТА ПУБЛІКАЦІЇ: 2025-10-19T14:00:00Z
+ОПИС: Hulu's Chad Powers paints Bitcoin and crypto as reckless, but beyond the show’s satire lies real innovation driving trust, transparency, and positive momentum.
+ПОСИЛАННЯ: https://www.forbes.com/sites/beccabratcher/2025/10/19/why-crypto-fits-perfectly-into-eli-mannings-alter-ego-chad-powers/
+--------------------------------------------------
+
+--- СТАТТЯ 66 ---
+ЗАГОЛОВОК: A new approach to blockchain spam: Local reputation over global rules
+ДЖЕРЕЛО: Help Net Security
+ДАТА ПУБЛІКАЦІЇ: 2025-10-17T06:00:10Z
+ОПИС: Spam has long been a nuisance in blockchain networks, clogging transaction queues and driving up fees. A new research paper from Delft University of Technology introduces a decentralized solution called STARVESPAM that could help nodes in permissionless block…
+ПОСИЛАННЯ: https://www.helpnetsecurity.com/2025/10/17/new-approach-blockchain-spam-mitigation/
+--------------------------------------------------
+
+--- СТАТТЯ 67 ---
+ЗАГОЛОВОК: How Bitcoin’s ‘quick reset’ after $19bn flash crash sets stage for new highs this year
+ДЖЕРЕЛО: Dlnews.com
+ДАТА ПУБЛІКАЦІЇ: 2025-10-16T09:17:37Z
+ОПИС: Analysts say structural demand remains strong even as geopolitical and macro risks loom. ETFs see significant positive flows.
+ПОСИЛАННЯ: https://www.dlnews.com/articles/markets/bitcoin-reset-sets-stage-for-fresh-highs-in-2025-say-experts/
+--------------------------------------------------
+
+--- СТАТТЯ 68 ---
+ЗАГОЛОВОК: Ethereum-Based Uniswap Adds Solana Support in Win for Tackling DeFi Fragmentation
+ДЖЕРЕЛО: CoinDesk
+ДАТА ПУБЛІКАЦІЇ: 2025-10-17T11:27:45Z
+ОПИС: This could simplify the user experience, removing the need to use complex bridges or switch between different wallets and applications.
+ПОСИЛАННЯ: https://www.coindesk.com/tech/2025/10/17/ethereum-based-uniswap-adds-solana-support-in-win-for-tackling-fragmentation-in-defi
+--------------------------------------------------
+
+--- СТАТТЯ 69 ---
+ЗАГОЛОВОК: How BNB Chain ‘memed’ its way to $2 trillion
+ДЖЕРЕЛО: Dlnews.com
+ДАТА ПУБЛІКАЦІЇ: 2025-10-20T11:44:09Z
+ОПИС: BNB Chain has just joined Ethereum and Solana in the $2 trillion club. Binance founder says it is memecoin season on BNB Chain. The memecoin market is down...
+ПОСИЛАННЯ: https://www.dlnews.com/articles/markets/how-bnb-chain-memed-its-way-to-2-trillion-in-dex-volume/
+--------------------------------------------------
+
+--- СТАТТЯ 70 ---
+ЗАГОЛОВОК: Fed Rate Cut Debate: What 25 vs. 50 bps Means for Bitcoin and Crypto Markets
+ДЖЕРЕЛО: BeInCrypto
+ДАТА ПУБЛІКАЦІЇ: 2025-10-17T09:00:25Z
+ОПИС: The Fed's debate over a 25 vs. 50 bps rate cut could reshape Bitcoin's future. Analysts say liquidity is now the real driver.
+ПОСИЛАННЯ: https://beincrypto.com/fed-rate-cut-crypto-impact-2025/
+--------------------------------------------------
+
+--- СТАТТЯ 71 ---
+ЗАГОЛОВОК: Wall Street Bank Citi Sees Stablecoins Powering Crypto’s Next Growth Phase
+ДЖЕРЕЛО: CoinDesk
+ДАТА ПУБЛІКАЦІЇ: 2025-10-20T12:05:42Z
+ОПИС: Stablecoins are growing alongside crypto, lifting Ethereum while new networks loom and the dollar stays dominant.
+ПОСИЛАННЯ: https://www.coindesk.com/markets/2025/10/20/wall-street-bank-citi-sees-stablecoins-powering-crypto-s-next-growth-phase
+--------------------------------------------------
+
+--- СТАТТЯ 72 ---
+ЗАГОЛОВОК: Bitcoin Selloff Continues, These Miners Tumble Amid Two Pieces Of News
+ДЖЕРЕЛО: Biztoc.com
+ДАТА ПУБЛІКАЦІЇ: 2025-10-17T13:15:59Z
+ОПИС: Bitcoin, crypto prices fall amid liquidations, ETF outflows. Bitfarms announces $500 million offering, Hive sees price target doubled.
+The post Bitcoin Selloff Continues, These Miners Tumble Amid Two Pieces Of News appeared first on Investor's Business Daily.
+ПОСИЛАННЯ: https://biztoc.com/x/2373013bc78cfaae
+--------------------------------------------------
+
+--- СТАТТЯ 73 ---
+ЗАГОЛОВОК: Monad’s Fast EVM Chain Promises ‘Night and Day’ Performance Gains
+ДЖЕРЕЛО: CoinDesk
+ДАТА ПУБЛІКАЦІЇ: 2025-10-20T16:47:56Z
+ОПИС: CoinDesk sat down with Monad Foundation’s Head of Growth Kevin McCordic to talk about the architecture behind the blockchain.
+ПОСИЛАННЯ: https://www.coindesk.com/tech/2025/10/20/monad-s-fast-evm-chain-promises-night-and-day-performance-gains
+--------------------------------------------------
+
+--- СТАТТЯ 74 ---
+ЗАГОЛОВОК: Crypto Markets Today: BTC, Altcoins Plunge as Liquidity Tightens and Gold Demand Soars
+ДЖЕРЕЛО: CoinDesk
+ДАТА ПУБЛІКАЦІЇ: 2025-10-17T12:00:44Z
+ОПИС: Bitcoin drops below its 200-day average to near $104,500 amid broad sell-off; $1.2B in liquidations signal mounting stress as traders brace for further downside.
+ПОСИЛАННЯ: https://www.coindesk.com/markets/2025/10/17/crypto-markets-today-btc-altcoins-plunge-as-liquidity-tightens-and-gold-demand-soars
+--------------------------------------------------
+
+--- СТАТТЯ 75 ---
+ЗАГОЛОВОК: Is Bitcoin At $106,000 'Cheap'? Here's How You Can Tell
+ДЖЕРЕЛО: Biztoc.com
+ДАТА ПУБЛІКАЦІЇ: 2025-10-17T16:47:32Z
+ОПИС: Bitcoin's (CRYPTO: BTC) weakness is raising concerns that the crypto market is increasingly dominated by short-term trading, impacting price performance.
+What Happened: In a detailed post on X on Friday, prominent trader Pentoshi highlighted Bitcoin's critica…
+ПОСИЛАННЯ: https://biztoc.com/x/4bc1b36fe9ce5a6c
+--------------------------------------------------
+
+--- СТАТТЯ 76 ---
+ЗАГОЛОВОК: Babylon claims breakthrough in using native Bitcoin collateral in DeFi: Finance Redefined
+ДЖЕРЕЛО: Cointelegraph
+ДАТА ПУБЛІКАЦІЇ: 2025-10-17T18:00:00Z
+ОПИС: Babylon’s vault system lets BTC serve as Ethereum loan collateral without bridges, while BNB Chain and Hyperliquid hit key milestones.
+ПОСИЛАННЯ: https://cointelegraph.com/news/finance-redefined-oct-10-17-babylon-bitcoin-defi-breakthrough
+--------------------------------------------------
+
+--- СТАТТЯ 77 ---
+ЗАГОЛОВОК: Newsmax to Start Crypto Reserve Including Bitcoin, Trump Coin
+ДЖЕРЕЛО: Biztoc.com
+ДАТА ПУБЛІКАЦІЇ: 2025-10-16T22:05:40Z
+ОПИС: The news outlet operator will purchase up to $5 million in the cryptocurrencies over the next year, and expects to be the first company on the NYSE to purchase Trump Coin.
+ПОСИЛАННЯ: https://biztoc.com/x/b9d73203799fdfd3
+--------------------------------------------------
+
+--- СТАТТЯ 78 ---
+ЗАГОЛОВОК: Where Wall Street stands on the NYC mayoral race, and how that could shift closer to Election Day
+ДЖЕРЕЛО: Business Insider
+ДАТА ПУБЛІКАЦІЇ: 2025-10-16T13:29:24Z
+ОПИС: Finance worker donations show a split between Zohran Mamdani and Andrew Cuomo. But as a clear favorite emerges, some could change their tune.
+ПОСИЛАННЯ: https://www.businessinsider.com/wall-street-mamdani-cuomo-divide-nyc-mayoral-race-change-2025-10
+--------------------------------------------------
+
+--- СТАТТЯ 79 ---
+ЗАГОЛОВОК: ‘It’s Game Over’—‘Imminent’ Fed U.S. Dollar ‘Crisis’ Predicted To Spark Bitcoin Price Tipping Point As Gold Soars
+ДЖЕРЕЛО: Forbes
+ДАТА ПУБЛІКАЦІЇ: 2025-10-19T11:30:04Z
+ОПИС: Analysts are warning of an “imminent dollar and financial crisis" that’s put bitcoin on the brink...
+ПОСИЛАННЯ: https://www.forbes.com/sites/digital-assets/2025/10/19/its-game-over-imminent-fed-us-dollar-crisis-predicted-to-spark-bitcoin-price-tipping-point-as-gold-soars/
+--------------------------------------------------
+
+--- СТАТТЯ 80 ---
+ЗАГОЛОВОК: Retail Investors Lose $17B as Bitcoin Treasury Stocks Collapse, 10x Research Says
+ДЖЕРЕЛО: Cryptonews
+ДАТА ПУБЛІКАЦІЇ: 2025-10-18T09:56:15Z
+ОПИС: Retail investors chasing Bitcoin exposure through public companies like Metaplanet and Michael Saylor’s Strategy have lost an estimated $17 billion...
+ПОСИЛАННЯ: https://cryptonews.com/news/retail-investors-lose-17b-as-bitcoin-treasury-stocks-collapse-10x-research-says/
+--------------------------------------------------
+
+--- СТАТТЯ 81 ---
+ЗАГОЛОВОК: Hong Kong Approves First Solana Spot ETF — Here’s When Trading Begins
+ДЖЕРЕЛО: Cryptonews
+ДАТА ПУБЛІКАЦІЇ: 2025-10-22T07:08:38Z
+ОПИС: Hong Kong’s securities regulator has approved the first Solana (SOL) spot exchange-traded fund, marking another milestone in the city’s effort to position...
+ПОСИЛАННЯ: https://cryptonews.com/news/hong-kong-approves-first-solana-spot-etf-when-trading-begins/
+--------------------------------------------------
+
+--- СТАТТЯ 82 ---
+ЗАГОЛОВОК: Institutions rushing into blockchain are driven by fear of missing out, says Everest Venture Group CEO
+ДЖЕРЕЛО: TheStreet
+ДАТА ПУБЛІКАЦІЇ: 2025-10-17T18:30:05Z
+ОПИС: The Everest Venture Group (EVG) co-founder and CEO says that many corporations rushing into blockchain and tokenized real-world assets (RWAs) aren’t driven...
+ПОСИЛАННЯ: https://www.thestreet.com/crypto/markets/institutions-rushing-into-blockchain-are-driven-by-fear-of-missing-out-says-everest-venture-group-ceo
+--------------------------------------------------
+
+--- СТАТТЯ 83 ---
+ЗАГОЛОВОК: Tom Lee's Bitmine Immersion Adds $800M of Ether, Bringing ETH Holdings Over $13B
+ДЖЕРЕЛО: CoinDesk
+ДАТА ПУБЛІКАЦІЇ: 2025-10-20T14:05:42Z
+ОПИС: The digital asset treasury bubble might have burst, as chairman Thomas Lee said, but the firm added over $1.6 billion worth of ETH during the crypto correction.
+ПОСИЛАННЯ: https://www.coindesk.com/business/2025/10/20/tom-lee-s-bitmine-immersion-adds-usd800m-of-ether-bringing-eth-holdings-over-usd13b
+--------------------------------------------------
+
+--- СТАТТЯ 84 ---
+ЗАГОЛОВОК: Crypto’s ‘Decentralized’ Illusion Shattered Again by Another AWS Meltdown
+ДЖЕРЕЛО: CoinDesk
+ДАТА ПУБЛІКАЦІЇ: 2025-10-21T21:12:17Z
+ОПИС: The October AWS outage took down some of crypto’s most prominent companies and networks. Many in the community pointed out their lack of decentralization.
+ПОСИЛАННЯ: https://www.coindesk.com/news-analysis/2025/10/21/crypto-s-decentralized-illusion-shattered-again-by-another-aws-meltdown
+--------------------------------------------------
+
+--- СТАТТЯ 85 ---
+ЗАГОЛОВОК: Coinbase splashes $25M to revive a podcast from the last bull run
+ДЖЕРЕЛО: Cointelegraph
+ДАТА ПУБЛІКАЦІЇ: 2025-10-21T05:37:18Z
+ОПИС: Coinbase bought UpOnly's NFT for $25M to restart the crypto podcast. CEO Brian Armstrong confirmed the purchase, shocking host Cobie.
+ПОСИЛАННЯ: https://cointelegraph.com/news/coinbase-spends-25-million-nft-revive-uponly-crypto-podcast
+--------------------------------------------------
+
+--- СТАТТЯ 86 ---
+ЗАГОЛОВОК: 'Uptober' Falters as Bitcoin and Ethereum Slip, Solana Leads Double-Digit Declines
+ДЖЕРЕЛО: Yahoo Entertainment
+ДАТА ПУБЛІКАЦІЇ: 2025-10-22T03:16:46Z
+ОПИС: None
+ПОСИЛАННЯ: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_5c2cbbd1-e9e0-47fd-8ff4-79254d7cc333
+--------------------------------------------------
+
+--- СТАТТЯ 87 ---
+ЗАГОЛОВОК: $75 Billion In Crypto Up For Grabs For Governments Eyeing Strategic Reserves
+ДЖЕРЕЛО: Yahoo Entertainment
+ДАТА ПУБЛІКАЦІЇ: 2025-10-18T18:01:02Z
+ОПИС: There is over $75 billion worth of cryptocurrencies tied to illicit activity up for grabs for the U.S. and other governments seeking to build a strategic...
+ПОСИЛАННЯ: https://finance.yahoo.com/news/75-billion-crypto-grabs-governments-180102860.html
+--------------------------------------------------
+
+--- СТАТТЯ 88 ---
+ЗАГОЛОВОК: Bitcoin Holds Near $111K as Traders Weigh China Retaliation, Risk Appetite Cools
+ДЖЕРЕЛО: CoinDesk
+ДАТА ПУБЛІКАЦІЇ: 2025-10-16T06:09:35Z
+ОПИС: Analysts note that Bitcoin’s correlation with gold is at a multi-year high of 0.9, reinforcing the “digital gold” narrative as both assets move in tandem during geopolitical shocks.
+ПОСИЛАННЯ: https://www.coindesk.com/markets/2025/10/16/bitcoin-holds-near-usd111k-as-traders-weigh-china-retaliation-risk-appetite-cools
+--------------------------------------------------
+
+--- СТАТТЯ 89 ---
+ЗАГОЛОВОК: Bitcoin Jumps Past $111K, XRP, SOL, ETH Rally as Japanese Shares Hit Record High
+ДЖЕРЕЛО: CoinDesk
+ДАТА ПУБЛІКАЦІЇ: 2025-10-20T05:52:19Z
+ОПИС: On-chain data offered bullish cues to bitcoin.
+ПОСИЛАННЯ: https://www.coindesk.com/markets/2025/10/20/bitcoin-retakes-usd110k-xrp-sol-eth-rally-as-japanese-shares-hit-record-high
+--------------------------------------------------
+
+--- СТАТТЯ 90 ---
+ЗАГОЛОВОК: Episode 231. “Our $200k in crypto is gone. Now we live with his mom.”
+ДЖЕРЕЛО: Iwillteachyoutoberich.com
+ДАТА ПУБЛІКАЦІЇ: 2025-10-21T10:10:11Z
+ОПИС: Angela (31) and David (34) thought they’d built a future on $200,000 in crypto. Instead, they lost it all—and now they’re living in David’s childhood home with his mom. Angela dreams of traveling to Colombia to be with family, while David quietly panics about…
+ПОСИЛАННЯ: https://www.iwillteachyoutoberich.com/231-angela-david/
+--------------------------------------------------
+
+--- СТАТТЯ 91 ---
+ЗАГОЛОВОК: Is Bitcoin At $106,000 'Cheap'? Here's How You Can Tell
+ДЖЕРЕЛО: Yahoo Entertainment
+ДАТА ПУБЛІКАЦІЇ: 2025-10-18T09:47:39Z
+ОПИС: Bitcoin's (CRYPTO: BTC) weakness is raising concerns that the crypto market is increasingly dominated by short-term trading, impacting price performance...
+ПОСИЛАННЯ: https://finance.yahoo.com/news/bitcoin-106-000-cheap-heres-094739418.html
+--------------------------------------------------
+
+--- СТАТТЯ 92 ---
+ЗАГОЛОВОК: ‘ETFtober’ gets bigger, more than 5 new crypto ETFs filed this week
+ДЖЕРЕЛО: Cointelegraph
+ДАТА ПУБЛІКАЦІЇ: 2025-10-17T06:01:02Z
+ОПИС: VanEck's Lido staked Ethereum ETF and 21Shares’ leveraged Hyperliquid fund were among the ETFs that reached the SEC's desk this week amid a government shutdown.
+ПОСИЛАННЯ: https://cointelegraph.com/news/etftober-gets-bigger-5-new-crypto-etfs-filed-in-week
+--------------------------------------------------
+
+--- СТАТТЯ 93 ---
+ЗАГОЛОВОК: TernFS – an exabyte scale, multi-region distributed filesystem
+ДЖЕРЕЛО: Xtxmarkets.com
+ДАТА ПУБЛІКАЦІЇ: 2025-10-20T17:36:16Z
+ОПИС: XTX Markets is a leading algorithmic trading firm which uses state-of-the-art machine learning technology to produce price forecasts for over 50,000 financial instruments across equities, fixed income, currencies, commodities and crypto. It uses those forecas…
+ПОСИЛАННЯ: https://www.xtxmarkets.com/tech/2025-ternfs/#posix-shaped
+--------------------------------------------------
+
+--- СТАТТЯ 94 ---
+ЗАГОЛОВОК: Gemini launches credit card offering Solana rewards with auto-staking
+ДЖЕРЕЛО: TheStreet
+ДАТА ПУБЛІКАЦІЇ: 2025-10-20T16:00:00Z
+ОПИС: Gemini (GEMI), the crypto exchange led by the billionaire Winklevoss twins, announced the launch of the Solana edition of its credit card on Oct. 20...
+ПОСИЛАННЯ: https://www.thestreet.com/crypto/gemini-credit-card-solana-crypto-staking
+--------------------------------------------------
+
+--- СТАТТЯ 95 ---
+ЗАГОЛОВОК: Bitcoin Tumbles Below $109K; Tightening Liquidity Key to Crypto's Struggles
+ДЖЕРЕЛО: CoinDesk
+ДАТА ПУБЛІКАЦІЇ: 2025-10-16T15:58:56Z
+ОПИС: The bounce from the recent leverage flush has failed for the moment.
+ПОСИЛАННЯ: https://www.coindesk.com/markets/2025/10/16/one-simple-reason-why-bitcoin-ether-xrp-solana-can-t-catch-a-break
+--------------------------------------------------
+
+--- СТАТТЯ 96 ---
+ЗАГОЛОВОК: Ethereum Leads With 16,000 New Developers in 2025, Solana Follows With 11,500
+ДЖЕРЕЛО: Cryptonews
+ДАТА ПУБЛІКАЦІЇ: 2025-10-17T05:42:51Z
+ОПИС: Ethereum remains the leading hub for blockchain developers, with over 16,000 new developers joining the ecosystem between January and September 2025...
+ПОСИЛАННЯ: https://cryptonews.com/news/ethereum-leads-with-16000-new-developers-in-2025-solana-follows-with-11500/
+--------------------------------------------------
+
+--- СТАТТЯ 97 ---
+ЗАГОЛОВОК: Why Is The Crypto Market Down Today?
+ДЖЕРЕЛО: BeInCrypto
+ДАТА ПУБЛІКАЦІЇ: 2025-10-17T03:57:01Z
+ОПИС: The total crypto market loses $60 billion as Bitcoin tests $108,000 support and Pump.fun slides to $0.0034.
+ПОСИЛАННЯ: https://beincrypto.com/why-is-the-crypto-market-down-today/
+--------------------------------------------------
+
+--- СТАТТЯ 98 ---
+ЗАГОЛОВОК: 'True nerds' or crypto crooks? Meet brothers 'Snoopy' and 'Curious Rabbit,' on trial in a $25 million heist case.
+ДЖЕРЕЛО: Business Insider
+ДАТА ПУБЛІКАЦІЇ: 2025-10-19T09:20:01Z
+ОПИС: Defense lawyers and prosecutors offered starkly different portrayals of MIT-alum brothers Anton Peraire-Bueno and James Peraire-Bueno at their trial.
+ПОСИЛАННЯ: https://www.businessinsider.com/crypto-brothers-fraud-trial-snoopy-curious-rabbit-mit-ethereum-bots-2025-10
+--------------------------------------------------
+
+--- СТАТТЯ 99 ---
+ЗАГОЛОВОК: Crypto Exchange Gemini Launches Solana-Themed Credit Card With Auto-Staking Rewards
+ДЖЕРЕЛО: CoinDesk
+ДАТА ПУБЛІКАЦІЇ: 2025-10-20T13:00:00Z
+ОПИС: The new Solana edition of the Gemini Credit Card lets users earn up to 4% back in SOL and auto-stake rewards for extra yield.
+ПОСИЛАННЯ: https://www.coindesk.com/business/2025/10/20/crypto-exchange-gemini-launches-solana-themed-credit-card-with-auto-staking-rewards
+--------------------------------------------------
+
+--- СТАТТЯ 100 ---
+ЗАГОЛОВОК: 3 Lessons Crypto Investors Can Learn From Recent Volatility
+ДЖЕРЕЛО: Forbes
+ДАТА ПУБЛІКАЦІЇ: 2025-10-18T20:40:37Z
+ОПИС: As crypto matures, investors and advocates alike need to adjust expectations and strategies
+ПОСИЛАННЯ: https://www.forbes.com/sites/digital-assets/2025/10/18/3-lessons-crypto-investors-can-learn-from-recent-volatility/
+--------------------------------------------------
+
