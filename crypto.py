@@ -65,7 +65,7 @@ else:
     vector_value['price'] = vector_value['price'].round(2)
     vector_price = vector_value.to_dict('records')
 
-    file_json = "btc_prices.json"
+    file_json = "~/parcing/btc_prices.json"
     try:
         with open(file_json, 'w', encoding='utf-8') as f:
             json.dump(vector_price, f, ensure_ascii=False, indent=4)
