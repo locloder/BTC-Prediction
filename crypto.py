@@ -6,6 +6,9 @@ import os
 import argparse
 import sys
 
+output_folder = "parsing"
+os.makedirs(output_folder, exist_ok=True)
+
 MAX_DAYS = 30
 VALID_INTERVALS = ['15m', '30m', '1h', '4h', '1d']
 
@@ -65,7 +68,7 @@ else:
     vector_value['price'] = vector_value['price'].round(2)
     vector_price = vector_value.to_dict('records')
 
-    file_json = "~/parcing/btc_prices.json"
+    file_json = "parsing/btc_prices.json"
     try:
         with open(file_json, 'w', encoding='utf-8') as f:
             json.dump(vector_price, f, ensure_ascii=False, indent=4)

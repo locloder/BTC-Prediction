@@ -5,8 +5,7 @@ import sys
 import os
 import json
 
-# Create parcing folder if it doesn't exist
-output_folder = "parcing"
+output_folder = "parsing"
 os.makedirs(output_folder, exist_ok=True)
 
 NEWS_API_KEY = "d7f7f2f45ad14d1cbaa6f68952f8a8e1"
@@ -75,7 +74,6 @@ def save_to_json(articles, filename, time_period):
         print("Не знайдено жодної відповідної статті.")
         return
 
-    # Transform articles to the desired JSON structure
     news_data = {
         "metadata": {
             "report_title": "КРИПТОВАЛЮТНІ НОВИНИ",

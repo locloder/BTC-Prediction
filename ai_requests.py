@@ -4,16 +4,20 @@ import datetime
 import matplotlib.pyplot as plt
 import pandas as pd
 from datetime import datetime, timedelta
-
-history_length = 0
+import os
+import numpy as np
 
 
 class TimeSeriesPredictor:
-    def __init__(self, json_file_path="btc_prices.json"):
+    def __init__(self, json_file_path="btc_prices.json", news_file_path=None):
         self.news_context = []
         self.price_history = []
         self.json_file_path = json_file_path
+        self.news_file_path = news_file_path
+        self.time_gap_hours = None  # Will be calculated from data
         self.load_price_data()
+        self.load_news_data()
+        self.calculate_time_gap()
 
     def load_price_data(self):
         """Load price data from JSON file"""
@@ -22,10 +26,59 @@ class TimeSeriesPredictor:
                 data = json.load(f)
                 self.price_history = data
                 print(f"Loaded {len(self.price_history)} price data points from {self.json_file_path}")
-                history_length = len(self.price_history)
         except Exception as e:
             print(f"Error loading price data: {e}")
             self.price_history = []
+
+    def load_news_data(self):
+        """Load news data from JSON file and add to context"""
+        if not self.news_file_path:
+            print("No news file path provided. Skipping news loading.")
+            return
+
+        try:
+            with open(self.news_file_path, 'r', encoding='utf-8') as f:
+                news_data = json.load(f)
+
+            # Extract articles from the news data
+            articles = news_data.get('articles', [])
+            print(f"Loaded {len(articles)} news articles from {self.news_file_path}")
+
+            # Add each article to the news context
+            for article in articles:
+                headline = article.get('headline', '')
+                description = article.get('description', '')
+                news_text = f"{headline}. {description}"
+                timestamp = article.get('data', '').replace('T', ' ').replace('Z', '')
+
+                if news_text.strip() and timestamp:
+                    self.add_news(news_text, timestamp)
+
+        except Exception as e:
+            print(f"Error loading news data: {e}")
+
+    def calculate_time_gap(self):
+        """Calculate the typical time gap between data points"""
+        if len(self.price_history) < 2:
+            print("Not enough data points to calculate time gap. Using default 1 hour.")
+            self.time_gap_hours = 1
+            return
+
+        try:
+            time_diffs = []
+            for i in range(1, min(10, len(self.price_history))):  # Check first 10 gaps
+                time1 = datetime.strptime(self.price_history[i - 1]['time'], '%Y-%m-%d %H:%M:%S')
+                time2 = datetime.strptime(self.price_history[i]['time'], '%Y-%m-%d %H:%M:%S')
+                diff_hours = (time2 - time1).total_seconds() / 3600
+                time_diffs.append(diff_hours)
+
+            # Use the most common time gap
+            self.time_gap_hours = np.median(time_diffs)
+            print(f"Detected time gap: {self.time_gap_hours:.1f} hours between data points")
+
+        except Exception as e:
+            print(f"Error calculating time gap: {e}. Using default 1 hour.")
+            self.time_gap_hours = 1
 
     def add_news(self, news_text, timestamp):
         """Add news data to context"""
@@ -34,13 +87,13 @@ class TimeSeriesPredictor:
             "news": news_text
         })
         # Keep only recent news (last 24 hours or last 10 items)
-        self.news_context = self.news_context[:]
+        self.news_context = self.news_context[-10:]  # Keep last 10 news items
 
     def add_price_data(self, price_data):
         """Add price data points"""
         self.price_history.append(price_data)
         # Keep reasonable history
-        self.price_history = self.price_history[:]
+        self.price_history = self.price_history[-1000:]  # Keep last 1000 price points
 
     def is_reasonable_change(self, new_price, previous_price, max_percent_change=15):
         """Check if the price change is reasonable (within max_percent_change%)"""
@@ -53,23 +106,45 @@ class TimeSeriesPredictor:
     def create_prediction_prompt(self, num_predictions=5):
         """Create a structured prompt for prediction"""
 
-        prompt = f"""You are a financial prediction AI. Analyze the given price data and news context, then predict exactly {num_predictions} future price points.
+        # Calculate time gap description for the prompt
+        if self.time_gap_hours == 1:
+            time_gap_desc = "1 hour"
+        elif self.time_gap_hours == 24:
+            time_gap_desc = "1 day"
+        else:
+            time_gap_desc = f"{self.time_gap_hours:.1f} hours"
 
-CURRENT PRICE DATA (most recent first):
+        # Format news context for better readability
+        news_context_formatted = ""
+        if self.news_context:
+            news_context_formatted = "RECENT CRYPTO/NEWS CONTEXT:\n"
+            for i, news_item in enumerate(self.news_context[:]):
+                news_context_formatted += f"{i + 1}. [{news_item['time']}] {news_item['news']}\n"
+        else:
+            news_context_formatted = "No recent news context available."
+
+        prompt = f"""You are a financial prediction AI specializing in cryptocurrency markets. Analyze the given price data and news context, then predict exactly {num_predictions} future price points.
+
+CURRENT BITCOIN PRICE DATA (most recent first):
 {json.dumps(self.price_history[-10:], indent=2)}
 
-RECENT NEWS CONTEXT:
-{json.dumps(self.news_context, indent=2)}
+TIME INTERVAL INFORMATION:
+- Time gap between data points: {time_gap_desc}
+- Predictions should maintain this same time interval
+
+{news_context_formatted}
 
 PREDICTION REQUIREMENTS:
 1. Output ONLY a JSON array with exactly {num_predictions} numbers
 2. Each number should be a logical continuation of the price trend
-3. Consider news sentiment in your prediction if there are any added
-4. Do NOT include any explanations, text, or other content
-5. Output should be written in same style as sample data
-6. Keep in mind that price you are outputting has same timegaps as data that you been given 
-7. You MUST output exactly {num_predictions} price predictions, no fewer
+3. STRONGLY CONSIDER the news sentiment and market implications in your predictions
+4. Positive news (adoption, institutional interest) should generally support higher prices
+5. Negative news (regulations, economic concerns) should generally pressure prices lower
+6. Do NOT include any explanations, text, or other content
+7. Output should be written in same style as sample data
 8. Price changes should be reasonable (typically less than 15% change between consecutive points)
+9. You MUST output exactly {num_predictions} price predictions, no fewer
+10. The time interval between your predictions should match the historical data interval of {time_gap_desc}
 
 PREDICTION:"""
         return prompt
@@ -162,11 +237,6 @@ PREDICTION:"""
                 # Update reference for next prediction
                 reference_price = pred
             else:
-                percent_change = abs((pred - reference_price) / reference_price) * 100
-                print(
-                    f"Discarded prediction {i + 1}: ${pred:,.2f} ({(pred - reference_price) / reference_price * 100:+.1f}% change from ${reference_price:,.2f})")
-                # Stop processing further predictions if one is unreasonable
-                # This maintains the sequence integrity
                 break
 
         return reasonable_predictions
@@ -229,7 +299,7 @@ PREDICTION:"""
         if len(reference_sequence) >= 2:
             trend = sum(
                 reference_sequence[i] - reference_sequence[i - 1] for i in range(1, len(reference_sequence))) / (
-                                len(reference_sequence) - 1)
+                            len(reference_sequence) - 1)
         else:
             # Small conservative trend if not enough data
             trend = last_price * 0.01  # 1% of last price
@@ -263,17 +333,17 @@ PREDICTION:"""
         return supplemental
 
     def generate_future_dates(self, num_predictions):
-        """Generate future dates for predictions based on last timestamp"""
+        """Generate future dates for predictions using the detected time gap"""
         if not self.price_history:
             return []
 
         # Get the last timestamp from historical data
         last_timestamp = datetime.strptime(self.price_history[-1]['time'], '%Y-%m-%d %H:%M:%S')
 
-        # Generate future dates (assuming 1-hour intervals like the historical data)
+        # Generate future dates using the detected time gap
         future_dates = []
         for i in range(1, num_predictions + 1):
-            future_date = last_timestamp + timedelta(hours=i)
+            future_date = last_timestamp + timedelta(hours=self.time_gap_hours * i)
             future_dates.append(future_date.strftime('%Y-%m-%d %H:%M:%S'))
 
         return future_dates
@@ -309,8 +379,8 @@ PREDICTION:"""
         last_historical_time = historical_times[-1]
         plt.axvline(x=last_historical_time, color='gray', linestyle='--', alpha=0.7, label='Prediction Start')
 
-        # Customize the plot
-        plt.title('Historical Data and Predictions', fontsize=14, fontweight='bold')
+        plt.title(f'Bitcoin price prediction', fontsize=14,
+                  fontweight='bold')
         plt.xlabel('Time', fontsize=12)
         plt.ylabel('Price (USD)', fontsize=12)
         plt.legend()
@@ -322,10 +392,16 @@ PREDICTION:"""
         plt.show()
 
         # Also print the data for reference
-        print("\n" + "=" * 50)
+        print("\n" + "=" * 60)
+        print(f"TIME INTERVAL: {self.time_gap_hours:.1f} hours between data points")
+        print(f"NEWS CONTEXT: {len(self.news_context)} recent news items considered")
         print("HISTORICAL DATA (Last 5 points):")
         for i, item in enumerate(self.price_history[-5:]):
             print(f"  {item['time']}: ${item['price']:,.2f}")
+
+        print("\nRECENT NEWS (affecting predictions):")
+        for i, news in enumerate(self.news_context[-3:]):  # Show last 3 news items
+            print(f"  {i + 1}. {news['news'][:100]}...")
 
         print("\nPREDICTIONS:")
         for i, (time, price) in enumerate(zip(future_times, predictions)):
@@ -339,18 +415,21 @@ PREDICTION:"""
                 change_from_previous = f" ({change_pct:+.1f}% from previous)"
 
             print(f"  {time}: ${price:,.2f}{change_from_previous}")
-        print("=" * 50)
+        print("=" * 60)
 
 
-# Usage example
-predictor = TimeSeriesPredictor("btc_prices.json")
+current_dir = os.path.dirname(os.path.abspath(__file__))
+price_json_path = os.path.join(current_dir, "parsing", "btc_prices.json")
+news_json_path = os.path.join(current_dir,"parsing",  "news.json")  # Path to your news.json file
 
-# Add news context if available
-predictor.add_news("Positive economic indicators released", "2025-10-05 12:30:00")
-predictor.add_news("Market volatility expected", "2025-10-05 11:45:00")
+# Initialize predictor with both price and news data
+predictor = TimeSeriesPredictor(price_json_path, news_json_path)
 
-# Get prediction - now it will always return exactly the requested number with reasonable changes
-num_predictions = 168  # You can change this to any number
+# Set number of predictions to match the number of historical data points loaded
+num_predictions = len(predictor.price_history)
+print(f"Loaded {num_predictions} historical data points, making {num_predictions} predictions")
+
+# Get prediction - now it will consider both price trends and news sentiment
 predictions = predictor.predict(num_predictions)
 print(f"Final predictions ({len(predictions)}):", predictions)
 
