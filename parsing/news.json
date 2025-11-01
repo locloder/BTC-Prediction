@@ -1,0 +1,711 @@
+{
+    "metadata": {
+        "report_title": "КРИПТОВАЛЮТНІ НОВИНИ",
+        "generated_at": "2025-10-26 13:13:50",
+        "requested_period": "1d",
+        "source": "NewsAPI.org",
+        "total_articles": 100
+    },
+    "articles": [
+        {
+            "newsletter_name": "Yahoo Entertainment",
+            "data": "2025-10-25T01:31:04Z",
+            "headline": "'Pet Rock' No More: JPMorgan To Accept Bitcoin, Ethereum As Collateral",
+            "description": "JPMorgan Chase & Co. (NYSE:JPM) will allow institutional clients to use Bitcoin (CRYPTO: BTC) and Ethereum (CRYPTO: ETH) as collateral for loans, marking a...",
+            "link": "https://finance.yahoo.com/news/pet-rock-no-more-jpmorgan-013104388.html"
+        },
+        {
+            "newsletter_name": "Business Insider",
+            "data": "2025-10-25T09:00:01Z",
+            "headline": "A legendary economist says Gen Z will have to 'work a lot harder' to survive the AI era — and may end up poorer than their parents",
+            "description": "Gary Shilling, 88, said that AI threatens to displace some workers and leave them \"selling hamburgers on the corner,\" and he has no plans to retire.",
+            "link": "https://www.businessinsider.com/gary-shilling-young-people-careers-outlook-ai-living-costs-retirement-2025-10"
+        },
+        {
+            "newsletter_name": "Yahoo Entertainment",
+            "data": "2025-10-25T02:31:04Z",
+            "headline": "Ethereum Taps $4,000 As Analyst Predicts 'Final Rally' Ahead Of 2026 Downturn",
+            "description": "Ethereum (CRYPTO: ETH) is trading around $4,000 as analyst Benjamin Cowen expects a final push toward new all-time highs before a potential 2026 market...",
+            "link": "https://finance.yahoo.com/news/ethereum-taps-4-000-analyst-023104967.html"
+        },
+        {
+            "newsletter_name": "Yahoo Entertainment",
+            "data": "2025-10-25T07:06:44Z",
+            "headline": "Ferrari aims at AI generation with crypto auction for Le Mans car",
+            "description": "By Giulio Piovaccari MILAN (Reuters) -Ferrari is tapping into crypto markets and tech-rich youngsters with a planned new digital token that its wealthiest...",
+            "link": "https://www.yahoo.com/news/articles/ferrari-aims-ai-generation-crypto-070644975.html"
+        },
+        {
+            "newsletter_name": "Yahoo Entertainment",
+            "data": "2025-10-25T07:06:44Z",
+            "headline": "Ferrari aims at AI generation with crypto auction for Le Mans car",
+            "description": "MILAN (Reuters) -Ferrari is tapping into crypto markets and tech-rich youngsters with a planned new digital token that its wealthiest fans will be able to...",
+            "link": "https://finance.yahoo.com/news/ferrari-aims-ai-generation-crypto-070644820.html"
+        },
+        {
+            "newsletter_name": "CoinDesk",
+            "data": "2025-10-25T06:46:34Z",
+            "headline": "XRP Leads Gains on Ripple Moves, Bitcoin Holds $111K as ‘Uptober’ Dud Heads for Last Week",
+            "description": "October has been defined by forced selling and false starts and on track to become the worst since 2015, dampening an otherwise bullish month that averages over 25% returns for bitcoin.",
+            "link": "https://www.coindesk.com/markets/2025/10/25/xrp-leads-gains-on-ripple-moves-bitcoin-holds-usd111k-as-uptober-dud-heads-for-last-week"
+        },
+        {
+            "newsletter_name": "Cointelegraph",
+            "data": "2025-10-25T10:33:20Z",
+            "headline": "Ferrari to launch digital token to let fans bid on its Le Mans-winning race car",
+            "description": "Ferrari is deepening its crypto push with a new digital token for its top clients, letting them bid on the Le Mans-winning 499P as part of a limited auction set to launch in 2027.",
+            "link": "https://cointelegraph.com/news/ferrari-digital-token-lets-fans-bid-on-le-mans-winning-car"
+        },
+        {
+            "newsletter_name": "Yahoo Entertainment",
+            "data": "2025-10-25T00:31:32Z",
+            "headline": "Donald Trump's New White House Ballroom Attracts Funds From Ripple, Coinbase, Tether, Gemini",
+            "description": "Crypto giants including Ripple (CRYPTO: XRP), Coinbase (NASDAQ:COIN), Tether (CRYPTO: USDT), and the Winklevoss twins' Gemini are among key donors helping...",
+            "link": "https://finance.yahoo.com/news/donald-trumps-white-house-ballroom-003132649.html"
+        },
+        {
+            "newsletter_name": "Cointelegraph",
+            "data": "2025-10-25T07:33:44Z",
+            "headline": "Spot Ether ETFs see outflows for second consecutive week amid ‘cooling demand’",
+            "description": "Spot Bitcoin ETFs attracted $446 million in weekly inflows, signaling renewed institutional confidence in BTC as Ether funds faced a second straight week of outflows.",
+            "link": "https://cointelegraph.com/news/ethereum-etfs-outflows-bitcoin-inflows-october-2025"
+        },
+        {
+            "newsletter_name": "BeInCrypto",
+            "data": "2025-10-25T07:49:27Z",
+            "headline": "Rumble Challenges YouTube with Bitcoin Tipping",
+            "description": "Rumble partners with Tether to launch Bitcoin tipping, challenging YouTube’s dominance and empowering creators with crypto payments.",
+            "link": "https://beincrypto.com/rumble-challenges-youtube-with-bitcoin-tipping/"
+        },
+        {
+            "newsletter_name": "BeInCrypto",
+            "data": "2025-10-25T05:24:42Z",
+            "headline": "Ripple Grows Beyond Crypto—But Can XRP Keep Up?",
+            "description": "Ripple expands beyond crypto, but XRP’s limited role questions its utility and long-term value in Ripple’s ecosystem.",
+            "link": "https://beincrypto.com/ripple-expansion-beyond-crypto-xrp-impact/"
+        },
+        {
+            "newsletter_name": "Cointelegraph",
+            "data": "2025-10-25T00:16:01Z",
+            "headline": "Rumble partners with Tether to add Bitcoin tips for content creators",
+            "description": "Video sharing platform Rumble has teamed up with Tether to help it add Bitcoin tips to content creators, expected to launch in early to mid-December.",
+            "link": "https://cointelegraph.com/news/tether-helps-rumble-add-bitcoin-tips-for-content-creators"
+        },
+        {
+            "newsletter_name": "Cointelegraph",
+            "data": "2025-10-25T02:09:23Z",
+            "headline": "Bank of England probes data-mining lending strategies fueling AI bets",
+            "description": "The Bank of England is worried that a rise in financiers' lending to data center lending may cause an AI bubble reminiscent of the dot-com crash in the early 2000s.",
+            "link": "https://cointelegraph.com/news/bank-of-england-probes-data-mining-lending"
+        },
+        {
+            "newsletter_name": "CoinDesk",
+            "data": "2025-10-25T09:49:17Z",
+            "headline": "Bitcoin Consolidates Above $111,000 as Breakout Awaits Fresh Catalyst",
+            "description": "Bitcoin stayed range-bound into 08:00 UTC on OCt. 25 as volume spiked on a defense of support and sellers capped rallies near the top of the recent corridor.",
+            "link": "https://www.coindesk.com/markets/2025/10/25/bitcoin-consolidates-as-breakout-awaits-fresh-catalyst"
+        },
+        {
+            "newsletter_name": "Bitcoinist",
+            "data": "2025-10-25T04:00:19Z",
+            "headline": "Zcash Is The ‘Better Bitcoin’ Satoshi Couldn’t Build, Says Helius Labs CEO",
+            "description": "Zcash’s sudden resurgence is not just another rotation, argues Helius CEO Mert Mumtaz; it is a re-centering of crypto on first principles of cryptography and user choice. In a wide-ranging conversation on Messari’s “Fully Diluted” (Oct. 23) with host Dylan Ba…",
+            "link": "https://bitcoinist.com/zcash-better-bitcoin-satoshi-couldnt-build/"
+        },
+        {
+            "newsletter_name": "CoinDesk",
+            "data": "2025-10-25T09:10:56Z",
+            "headline": "Crypto.com Applies for OCC National Trust Bank Charter to Expand U.S. Institutional Custody",
+            "description": "Crypto.com applied to U.S. banking regulator OCC for a national trust bank charter, a step it says would expand federally supervised crypto custody for institutions.",
+            "link": "https://www.coindesk.com/policy/2025/10/25/crypto-com-applies-for-occ-national-trust-bank-charter-to-expand-u-s-institutional-custody"
+        },
+        {
+            "newsletter_name": "Ritholtz.com",
+            "data": "2025-10-25T10:30:14Z",
+            "headline": "10 Weekend Reads",
+            "description": "The weekend is here! Pour yourself a mug of Danish Blend coffee, grab a seat outside, and get ready for our longer-form weekend reads: • Why I Don’t Own Any Gold. It’s not a productive asset. It doesn’t do anything — no earnings or cash flow. If you are big o…",
+            "link": "https://ritholtz.com/2025/10/10-weekend-reads-63/"
+        },
+        {
+            "newsletter_name": "CoinDesk",
+            "data": "2025-10-25T06:34:53Z",
+            "headline": "Inverse Head-and-Shoulders Breakout Puts XRP on Track for $2.80 Test",
+            "description": "Failure to hold $2.50 on a closing basis would neutralize the bullish structure, potentially inviting rotation back toward $2.40–$2.42 support.",
+            "link": "https://www.coindesk.com/markets/2025/10/25/inverse-head-and-shoulders-breakout-puts-xrp-on-track-for-usd2-80-test"
+        },
+        {
+            "newsletter_name": "newsBTC",
+            "data": "2025-10-25T04:00:44Z",
+            "headline": "‘It’s All One Trade’ — Crypto Bull Run Isn’t Done, Says Dan Morehead",
+            "description": "Pantera Capital founder and CEO Dan Morehead argues the core driver of this cycle remains the same “one trade” uniting macro and crypto: fiat debasement pushing capital into scarce, higher-beta assets. In a wide-ranging conversation with Real Vision’s Raoul P…",
+            "link": "http://www.newsbtc.com/news/its-all-one-trade-crypto-bull-run-isnt-done-says-dan-morehead/"
+        },
+        {
+            "newsletter_name": "newsBTC",
+            "data": "2025-10-25T01:00:52Z",
+            "headline": "Ethereum OG Drives $500M Liquidity Flow Into ConcreteXYZ & Stable Vaults – Details",
+            "description": "Ethereum is struggling to push above the $4,000 level, as market sentiment remains uncertain and volatility keeps investors cautious. Despite several attempts, bulls have failed to sustain momentum, suggesting hesitation at key resistance levels. However, new…",
+            "link": "http://www.newsbtc.com/news/ethereum/ethereum-og-drives-500m-liquidity-flow-into-concretexyz-stable-vaults-details/"
+        },
+        {
+            "newsletter_name": "Cointelegraph",
+            "data": "2025-10-25T04:33:27Z",
+            "headline": "Ripple now a one-stop fintech shop after closing Hidden Road acquisition",
+            "description": "Ripple has completed its acquisition of Hidden Road, a move that will expand its fintech services for institutional clients and boost the utility and reach of its RLUSD stablecoin.",
+            "link": "https://cointelegraph.com/news/ripple-closes-fintech-hidden-road-acquisition"
+        },
+        {
+            "newsletter_name": "newsBTC",
+            "data": "2025-10-25T10:30:58Z",
+            "headline": "Why November Might Be A Game-Changer For The Ethereum Price",
+            "description": "Unlike Bitcoin, the Ethereum price has struggled to hold up, and even after the crypto market recovery, the price remains below $4,000, which is a major psychological level. Given this, it seems that the cryptocurrency is set to close the month of October in …",
+            "link": "http://www.newsbtc.com/news/ethereum/november-the-ethereum-price/"
+        },
+        {
+            "newsletter_name": "Bitcoinist",
+            "data": "2025-10-25T08:00:32Z",
+            "headline": "JPMorgan To Allow Bitcoin And Ether As Collateral For Institutional Clients – Report",
+            "description": "In a significant development for Wall Street’s crypto integration, JPMorgan, one of the largest financial institutions in the US, is set to allow Bitcoin (BTC) and Ether (ETH) as collateral before the end of the year. Related Reading: Crypto Market Structure …",
+            "link": "https://bitcoinist.com/jpmorgan-bitcoin-ether-collateral-clients-report/"
+        },
+        {
+            "newsletter_name": "Bitcoinist",
+            "data": "2025-10-25T06:00:28Z",
+            "headline": "Trump Says Crypto Could Pay $38 Trillion US Debt – How High Must Bitcoin Go?",
+            "description": "US President Donald Trump recently stated that cryptocurrencies could be used to alleviate the ballooning US national debt, which has recently exceeded $38 trillion. Trump’s statement has triggered a global conversation about the role of digital assets, espec…",
+            "link": "https://bitcoinist.com/trump-crypto-38-trillion-us-debt-bitcoin/"
+        },
+        {
+            "newsletter_name": "Bitcoinist",
+            "data": "2025-10-25T10:30:03Z",
+            "headline": "Analyst Says Wait For The Bitcoin Price Crack To Trigger A 70% Crash – Here’s The Target",
+            "description": "Despite the Bitcoin price bouncing back from its October 10 flash crash, the expectations are yet to turn bullish for the cryptocurrency. Predictions for where the cryptocurrency could end have been more bearish, especially with sentiment still learning towar…",
+            "link": "https://bitcoinist.com/bitcoin-price-crack-70-crash/"
+        },
+        {
+            "newsletter_name": "CryptoSlate",
+            "data": "2025-10-25T10:05:54Z",
+            "headline": "The 5 unbelievable crypto comeback stories that changed the world forever",
+            "description": "Crypto is nothing if not cyclical. Every cycle births icons, wrecks them, and sometimes resurrects them. What was once written off as dead can roar back to life with a vengeance, reshaped by regulation, technology, or sheer market gravity. From courtrooms to …",
+            "link": "https://cryptoslate.com/the-5-greatest-comeback-stories-in-crypto-that-changed-the-world-forever/"
+        },
+        {
+            "newsletter_name": "Bitcoinist",
+            "data": "2025-10-25T00:00:21Z",
+            "headline": "Analyst Says Understanding This Bitcoin Structure Is Like Having A Superpower",
+            "description": "Crypto analyst CrediBULL Crypto has shared a confident view of Bitcoin’s current market setup, describing the ability to read high-timeframe (HTF) structures as a superpower. His comments came at a time when Bitcoin had experienced notable volatility, fluctua…",
+            "link": "https://bitcoinist.com/understanding-this-bitcoin-structure/"
+        },
+        {
+            "newsletter_name": "Biztoc.com",
+            "data": "2025-10-25T08:55:58Z",
+            "headline": "Weekend Round-Up: Crypto World Buzzes With Coinbase, Cathie Wood, Melania Trump And Bitcoin News",
+            "description": "There was a whirlwind of activity in the cryptocurrency world this week. From optimistic predictions by Coinbase Global Inc. CEO Brian Armstrong to Cathie Wood’s backing of a major Ethereum holder, the crypto market was abuzz with news.\nMeanwhile, Melania Tru…",
+            "link": "https://biztoc.com/x/e002a184daac327a"
+        },
+        {
+            "newsletter_name": "CoinDesk",
+            "data": "2025-10-25T00:24:22Z",
+            "headline": "Ripple Prime Is the Fintech Firm’s One-Stop Institutional Trading and Financing Desk",
+            "description": "Ripple Prime bundles trading, financing and clearing for institutions in one service, with risk controls, regulated custody and optional RLUSD collateral.",
+            "link": "https://www.coindesk.com/markets/2025/10/25/ripple-prime-is-the-fintech-firm-s-one-stop-institutional-trading-and-financing-desk"
+        },
+        {
+            "newsletter_name": "Crypto Briefing",
+            "data": "2025-10-25T03:24:40Z",
+            "headline": "LinkedIn co-founder Reid Hoffman acquires CryptoPunk PFP",
+            "description": "Hoffman's engagement with CryptoPunks underscores tech leaders' growing interest in blockchain, potentially boosting NFT and crypto adoption.\nThe post LinkedIn co-founder Reid Hoffman acquires CryptoPunk PFP appeared first on Crypto Briefing.",
+            "link": "https://cryptobriefing.com/reid-hoffman-cryptopunk-profile-picture/"
+        },
+        {
+            "newsletter_name": "newsBTC",
+            "data": "2025-10-25T03:00:41Z",
+            "headline": "Ethereum Emerges As The Sole Trillion-Dollar Institutional Store Of Value — Here’s Why",
+            "description": "The financial world is witnessing an unprecedented shift, as Ethereum solidifies its position as the sole asset capable of becoming a multi-trillion-dollar institutional store of value. ETH is the only one currently demonstrating the scale, utility, and insti…",
+            "link": "http://www.newsbtc.com/news/ethereum/ethereum-as-a-store-of-value/"
+        },
+        {
+            "newsletter_name": "Bitcoinist",
+            "data": "2025-10-25T03:00:52Z",
+            "headline": "Will Trump Pardon Sam Bankman-Fried? Polymarket Odds Surge as Traders React to CZ’s Release",
+            "description": "Speculation is heating up in crypto circles as betting markets Polymarket surged on the possibility that former FTX CEO Sam Bankman-Fried (SBF) could receive a presidential pardon from Donald Trump. Related Reading: Tesla Rides Bitcoin Rally To $80 Million Pr…",
+            "link": "https://bitcoinist.com/will-trump-pardon-sam-bankman-fried-polymarket-odds/"
+        },
+        {
+            "newsletter_name": "CBS News",
+            "data": "2025-10-25T00:17:29Z",
+            "headline": "What donors to Trump's White House ballroom stand to gain from the federal government",
+            "description": "Dozens of companies and wealthy individuals have given money toward President Trump's $300 million White House ballroom project. Many have also sought favorable policies from his administration.",
+            "link": "https://www.cbsnews.com/news/trump-ballroom-donors-white-house-stand-to-gain/"
+        },
+        {
+            "newsletter_name": "newsBTC",
+            "data": "2025-10-25T09:00:20Z",
+            "headline": "PUMP Rallies 10% Following Pump.Fun’s Acquisition Of Trading Terminal Padre",
+            "description": "Pump.fun announced the acquisition of a leading multi-chain trading terminal to further expand its ecosystem, triggering a 10% price surge for the platform’s token, PUMP. Related Reading: BNB Reclaims $1,100 As Binance Founder Receives Presidential Pardon – N…",
+            "link": "http://www.newsbtc.com/news/pump-rallies-10-following-pump-funs-acquisition-of-trading-terminal-padre/"
+        },
+        {
+            "newsletter_name": "Prtimes.jp",
+            "data": "2025-10-25T11:01:47Z",
+            "headline": "SLV、Solana v3 向け自動ビルドとリージョン最適化を実装。複雑なセルフビルド手順不要でグローバル更新を高速化",
+            "description": "[ELSOUL LABO B.V.]\n[画像1: https://prcdn.freetls.fastly.net/release_image/105962/288/105962-288-e98825c0f8af5449f4823dd12531116f-2400x1260.jpg?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bound...",
+            "link": "https://prtimes.jp/main/html/rd/p/000000288.000105962.html"
+        },
+        {
+            "newsletter_name": "newsBTC",
+            "data": "2025-10-25T05:00:31Z",
+            "headline": "Cardano Gears Up for Major Rally as Technicals Flash Buy Signal and Traders Eye $2.50 Target",
+            "description": "Cardano (ADA) appears to be preparing for a major rally, as bullish technical signals and network milestones spark renewed optimism among traders. Related Reading: HYPE Soars Beyond $40 Following Robinhood Listing: What’s Next For Hyperliquid’s Price? After m…",
+            "link": "http://www.newsbtc.com/news/cardano/cardano-gears-up-for-major-rally-as-technicals-flash-buy-signal-and-traders-eye-2-50-target/"
+        },
+        {
+            "newsletter_name": "Bitcoinist",
+            "data": "2025-10-25T05:00:55Z",
+            "headline": "Bitcoin Reclaims $110K Amid Institutional Support, But Tom Lee Warns of a Potential BTC 50% Drop",
+            "description": "Bitcoin (BTC) recently surged past the $110,000 mark, supported by growing institutional backing and the launch of spot Bitcoin ETFs. This comes in after a week of volatility that has seen BTC go below support levels. Related Reading: Ripple CTO Schwartz Revi…",
+            "link": "https://bitcoinist.com/bitcoin-reclaims-110k-amid-institutional-support-but-tom-lee-warns-of-a-potential-btc-50-drop/"
+        },
+        {
+            "newsletter_name": "newsBTC",
+            "data": "2025-10-25T02:00:14Z",
+            "headline": "Ethereum Whales Quietly Accumulate As Stablecoin Usage Skyrockets 400%",
+            "description": "Reports have disclosed a 400% rise in stablecoin transfers on Ethereum over the last 30 days, pushing total transfer volume to $581 billion and more than 12.5 million transfers, according to Token Terminal. Related Reading: 16,000 Ancient Bitcoins Just Moved—…",
+            "link": "http://www.newsbtc.com/altcoin/ethereum-whales-quietly-accumulate-as-stablecoin-usage-skyrockets-400/"
+        },
+        {
+            "newsletter_name": "TheStreet",
+            "data": "2025-10-25T00:25:18Z",
+            "headline": "IPO-rumored company beats every Wall Street giant with 99% profit margin",
+            "description": "“We have a 99% profit margin. There is no other company in the world that has that,\" said Paolo Ardoino, CEO of stablecoin issuing company Tether. The bold...",
+            "link": "https://www.thestreet.com/crypto/business/ipo-rumored-company-beats-every-wall-street-giant-with-99-profit-margin"
+        },
+        {
+            "newsletter_name": "Yahoo Entertainment",
+            "data": "2025-10-25T09:30:00Z",
+            "headline": "China's pause on stablecoin projects will not dampen Hong Kong's crypto push, experts say",
+            "description": "Beijing's recent moves to rein in mainland Chinese firms' stablecoin and tokenisation initiatives in Hong Kong may have rattled the city's crypto sector, but...",
+            "link": "https://finance.yahoo.com/news/chinas-pause-stablecoin-projects-not-093000232.html"
+        },
+        {
+            "newsletter_name": "newsBTC",
+            "data": "2025-10-25T08:00:17Z",
+            "headline": "Bitcoin Liquidity Hits Seven-Year Low As Accumulators Stack 373,700 BTC In A Month",
+            "description": "Bitcoin (BTC) liquidity is drying up fast, as the metric recently hit a seven-year low, reaching around 3.12 million BTC, the lowest level since 2018. This occurred as BTC continued to trade below the 99-day Moving Average (MA), located around $112,086. Bitco…",
+            "link": "http://www.newsbtc.com/bitcoin-news/bitcoin-liquidity-seven-year-low-373700-btc-month/"
+        },
+        {
+            "newsletter_name": "Naturalnews.com",
+            "data": "2025-10-25T06:00:00Z",
+            "headline": "Gold prices could SURGE to $10,000, JPMorgan CEO Jamie Dimon warns",
+            "description": "JPMorgan CEO Jamie Dimon predicts gold may skyrocket to $10,000/oz due to economic instability, inflation, geopolitical tensions and AI-driven market shifts. Gold has already surged 58 percent in 2024, surpassing $4,200/oz. Billionaires like Ray Dalio recomme…",
+            "link": "https://www.naturalnews.com/2025-10-25-gold-prices-could-surge-jpmorgan-ceo-warns.html"
+        },
+        {
+            "newsletter_name": "Ambcrypto.com",
+            "data": "2025-10-25T05:00:36Z",
+            "headline": "China becomes world’s 3rd-largest Bitcoin mining hub – Here’s how",
+            "description": "Why are miners quietly returning to Xinjiang after the 2021 crackdown?",
+            "link": "https://ambcrypto.com/china-becomes-worlds-3rd-largest-bitcoin-mining-hub-heres-how/"
+        },
+        {
+            "newsletter_name": "Bitcoinist",
+            "data": "2025-10-25T02:00:02Z",
+            "headline": "China’s Bitcoin Mining Isn’t Dead — It’s The World’s No. 3 Contributor",
+            "description": "According to recent estimates, China accounted for about 14% of Bitcoin’s global hash-rate in late 2025, a slight rise from roughly 13% the prior quarter. Based on reports, that share translates to an estimated slice near 145 EH/s of computing power tied to C…",
+            "link": "https://bitcoinist.com/chinas-bitcoin-mining-isnt-dead-its-the-worlds-no-3-contributor/"
+        },
+        {
+            "newsletter_name": "GlobeNewswire",
+            "data": "2025-10-25T11:00:00Z",
+            "headline": "New Crypto Mutuum Finance (MUTM) Nears V1 Launch After Raising Over $17.8M",
+            "description": "Dubai, UAE, Oct. 25, 2025 (GLOBE NEWSWIRE) -- In a market where many blockchain projects promise innovation but struggle with execution, Mutuum Finance (MUTM)\r\n is quickly emerging as one of the top crypto demonstrating steady, measurable progress. The Ethere…",
+            "link": "https://www.globenewswire.com/news-release/2025/10/25/3174144/0/en/New-Crypto-Mutuum-Finance-MUTM-Nears-V1-Launch-After-Raising-Over-17-8M.html"
+        },
+        {
+            "newsletter_name": "Globalsecurity.org",
+            "data": "2025-10-25T09:31:09Z",
+            "headline": "Two Defendants Convicted of Conspiring to Provide Material Support to ISIS",
+            "description": "Defendants Used Bitcoin, PayPal, and GoFundMe to Collectively Transfer Thousands of Dollars to ISIS, Which Were Disguised in Part as Charitable Giving",
+            "link": "https://www.globalsecurity.org/security/library/news/2025/10/sec-251024-doj02.htm"
+        },
+        {
+            "newsletter_name": "The Times of India",
+            "data": "2025-10-25T06:47:13Z",
+            "headline": "Money-losing companies with colorful histories have pivoted to crypto",
+            "description": "Struggling companies are rebranding as digital asset treasury (DAT) firms, investing in cryptocurrency to attract capital and boost stock prices, though sustainability remains uncertain amid regulatory scrutiny and volatile market performance.",
+            "link": "https://economictimes.indiatimes.com/markets/cryptocurrency/money-losing-companies-with-colorful-histories-have-pivoted-to-crypto/articleshow/124800983.cms"
+        },
+        {
+            "newsletter_name": "newsBTC",
+            "data": "2025-10-25T06:00:21Z",
+            "headline": "XRP Sparks Bullish Frenzy As Top Software Dev Says It Beats ETF Hype",
+            "description": "According to software engineer Vincent Van Code, fresh practical reasons are emerging for renewed confidence in XRP among some developers and investors. He argues that the biggest barrier to big firms holding XRP directly isn’t price or interest — it’s operat…",
+            "link": "http://www.newsbtc.com/altcoin/xrp-sparks-bullish-frenzy-as-top-software-dev-says-it-beats-etf-hype/"
+        },
+        {
+            "newsletter_name": "BeInCrypto",
+            "data": "2025-10-25T04:49:57Z",
+            "headline": "Zelle Expands Abroad With Stablecoins, But Details Remain Elusive",
+            "description": "Zelle expands abroad with stablecoins, but skepticism grows over whether its blockchain plan can succeed where others failed.",
+            "link": "https://beincrypto.com/zelle-international-money-transfer-stablecoins/"
+        },
+        {
+            "newsletter_name": "Biztoc.com",
+            "data": "2025-10-25T06:32:04Z",
+            "headline": "Crypto Treasury Stocks Face a Reckoning. Why Boom Could Turn to Bust",
+            "description": "",
+            "link": "https://biztoc.com/x/1b7fb57d798aca2f"
+        },
+        {
+            "newsletter_name": "newsBTC",
+            "data": "2025-10-25T00:00:41Z",
+            "headline": "Dogecoin Bears Tighten Grip, But This Support Zone Hints At A Potential Reversal",
+            "description": "Dogecoin is once again under pressure as bears tighten their hold, keeping the price pinned below key resistance levels. Despite the ongoing consolidation, one crucial support zone is beginning to show signs of strength, hinting that a potential reversal coul…",
+            "link": "http://www.newsbtc.com/news/dogecoin/dogecoin-bears-tighten-grip/"
+        },
+        {
+            "newsletter_name": "Bitcoinist",
+            "data": "2025-10-25T01:00:53Z",
+            "headline": "Bitcoin Volatility Starts To Cool: Market Prepares For Potential Short Squeeze Rally",
+            "description": "Bitcoin is struggling to establish a clear bullish structure in the short term, as selling pressure continues to dominate since the October 10 market crash. The asset remains caught in a volatile range, with traders unsure whether the next major move will mar…",
+            "link": "https://bitcoinist.com/bitcoin-volatility-starts-cool-market-short-squeeze/"
+        },
+        {
+            "newsletter_name": "Ambcrypto.com",
+            "data": "2025-10-25T07:00:47Z",
+            "headline": "Ethereum nears $4,000 – But $127M ETH ETF outflow stirs fear!",
+            "description": "Ethereum sees divided investor sentiment.",
+            "link": "https://ambcrypto.com/ethereum-nears-4000-but-127m-eth-etf-outflow-stirs-fear/"
+        },
+        {
+            "newsletter_name": "Ambcrypto.com",
+            "data": "2025-10-25T02:00:57Z",
+            "headline": "Identifying cryptos with the most bullish momentum right now – ZEC, VIRTUAL, & BNB",
+            "description": "Zcash, BNB, and Virtuals Protocol dominate current crypto momentum with clear breakout signals.",
+            "link": "https://ambcrypto.com/identifying-cryptos-with-the-most-bullish-momentum-right-now-zec-virtual-bnb/"
+        },
+        {
+            "newsletter_name": "Ambcrypto.com",
+            "data": "2025-10-25T09:00:48Z",
+            "headline": "Ethereum leverage nears record highs: Are ETH traders on edge?",
+            "description": "Traders brace for a breakout or liquidation wave with ETH near $4,000.",
+            "link": "https://ambcrypto.com/ethereum-leverage-nears-record-highs-are-eth-traders-on-edge/"
+        },
+        {
+            "newsletter_name": "ZyCrypto",
+            "data": "2025-10-25T07:40:56Z",
+            "headline": "Community Rushes to MoonBull ($MOBU) Presale Token After TRON Spaceflight",
+            "description": "Can one ETF design redefine how crypto prices move? The $11 billion ETF model unveiled this October has already begun influencing Bitcoin’s liquidity structure, showing how institutional control drives trading spreads. In Q4 2025, that same effect is turning …",
+            "link": "https://zycrypto.com/community-rushes-to-moonbull-mobu-presale-token-after-tron-spaceflight/"
+        },
+        {
+            "newsletter_name": "Bitcoinist",
+            "data": "2025-10-25T07:00:32Z",
+            "headline": "Crypto.com Pursues National Trust Bank Charter Application With OCC",
+            "description": "Singapore-based cryptocurrency exchange Crypto.com (CRO) announced on Friday its intention to apply for a national trust bank charter with the US Office of the Comptroller of the Currency (OCC).  This move aligns Crypto.com with other major firms in the indus…",
+            "link": "https://bitcoinist.com/crypto-com-pursues-national-trust-bank-charter/"
+        },
+        {
+            "newsletter_name": "Tom's Hardware UK",
+            "data": "2025-10-25T11:00:00Z",
+            "headline": "Microsoft for Startups exec says ‘my whole job is begging for GPUs,it's been that way since 2020’ — says that AI bubble doomsters are deluded",
+            "description": "Criticizes Jensen Huang for his perceived support of ‘random bitcoin miners’ over more deserving AI startups.",
+            "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/microsoft-for-startups-exec-says-my-whole-job-is-begging-for-gpus-its-been-that-way-since-2020-says-that-ai-bubble-doomsters-are-deluded"
+        },
+        {
+            "newsletter_name": "Ambcrypto.com",
+            "data": "2025-10-25T07:45:35Z",
+            "headline": "Trump nominates Michael Selig as new CFTC chair – Details here!",
+            "description": "Why are crypto insiders celebrating Michael Selig’s nomination as CFTC chair?",
+            "link": "https://ambcrypto.com/trump-nominates-michael-selig-as-new-cftc-chair-details-here/"
+        },
+        {
+            "newsletter_name": "Biztoc.com",
+            "data": "2025-10-25T06:54:43Z",
+            "headline": "XRP Leads Gains on Ripple Moves, Bitcoin Holds $111K as ‘Uptober’ Dud Heads for Last Week",
+            "description": "XRP Leads Gains on Ripple Moves, Bitcoin Holds $111K as ‘Uptober’ Dud Heads for Last Week\nOctober has been defined by forced selling and false starts and on track to become the worst since 2015, dampening an otherwise bullish month that averages over 25% retu…",
+            "link": "https://biztoc.com/x/bc199a6d2a779227"
+        },
+        {
+            "newsletter_name": "Biztoc.com",
+            "data": "2025-10-25T09:51:11Z",
+            "headline": "Bitcoin Consolidates Above $111,000 as Breakout Awaits Fresh Catalyst",
+            "description": "",
+            "link": "https://biztoc.com/x/c38f26d18584ad7b"
+        },
+        {
+            "newsletter_name": "newsBTC",
+            "data": "2025-10-25T05:00:54Z",
+            "headline": "Binance Faces New Opportunities In The US As CZ Plans Potential Comeback After Pardon",
+            "description": "Following speculation regarding a potential return, Changpeng Zhao, known as CZ, the co-founder and former CEO of Binance, has sparked discussions about the implications of his recent presidential pardon for the exchange’s operations in the United States.  Wi…",
+            "link": "http://www.newsbtc.com/binance/binance-faces-new-opportunities-in-the-us-as-cz-plans-potential-comeback-after-pardon/"
+        },
+        {
+            "newsletter_name": "Yahoo Entertainment",
+            "data": "2025-10-25T03:31:38Z",
+            "headline": "Ford CEO Jim Farley Predicts EV Adoption In US Will Only Be About 5% As Company Pauses F-150 Lightning Production",
+            "description": "Ford Motor Co. (NYSE:F) CEO Jim Farley predicted that EV adoption in the U.S. would fall amid a pivot towards Hybrid and ICE-powered vehicles. EV Adoption To...",
+            "link": "https://finance.yahoo.com/news/ford-ceo-jim-farley-predicts-033138695.html"
+        },
+        {
+            "newsletter_name": "Pypi.org",
+            "data": "2025-10-25T10:21:01Z",
+            "headline": "btcpriceticker 0.3.1",
+            "description": "Python lib for getting the bitcoin price",
+            "link": "https://pypi.org/project/btcpriceticker/0.3.1/"
+        },
+        {
+            "newsletter_name": "Pypi.org",
+            "data": "2025-10-25T10:00:11Z",
+            "headline": "btcpriceticker 0.3.0",
+            "description": "Python lib for getting the bitcoin price",
+            "link": "https://pypi.org/project/btcpriceticker/0.3.0/"
+        },
+        {
+            "newsletter_name": "YouTube",
+            "data": "2025-10-25T05:47:01Z",
+            "headline": "Don’t Understand Bitcoin? This Man Will Mumble An Explanation At You - YouTube",
+            "description": null,
+            "link": "https://www.youtube.com/supported_browsers?next_url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D4APcgsRdW6w"
+        },
+        {
+            "newsletter_name": "Biztoc.com",
+            "data": "2025-10-25T03:23:54Z",
+            "headline": "Trump Is Rewriting History to Justify His Sketchy Pardon of a Crypto King",
+            "description": "After Donald Trump pardoned a billionaire crypto king on Thursday, he claimed that Binance founder Changpeng Zhao was “persecuted” by Joe Biden’s Justice Department as part of what the White House called a “war on cryptocurrency.”\nOn one level, that assertion…",
+            "link": "https://biztoc.com/x/36185e41d354345e"
+        },
+        {
+            "newsletter_name": "Activistpost.com",
+            "data": "2025-10-25T02:44:00Z",
+            "headline": "‘On the Backs of Digital Slaves’: Musk, Other Trump-Era Tech Elites Building Global Digital Control Grid",
+            "description": "Technocracy News founder Patrick Wood explained how key figures in the Trump administration are developing a system for total digital control over global society. Wood’s presentation was one of four at the recent Omniwar Symposium that analyzed the dangers of…",
+            "link": "https://www.activistpost.com/on-the-backs-of-digital-slaves-musk-other-trump-era-tech-elites-building-global-digital-control-grid/"
+        },
+        {
+            "newsletter_name": "Biztoc.com",
+            "data": "2025-10-25T07:16:15Z",
+            "headline": "Ferrari aims at AI generation with crypto auction for Le Mans car",
+            "description": "",
+            "link": "https://biztoc.com/x/67d99d7e579152ca"
+        },
+        {
+            "newsletter_name": "Bleeding Cool News",
+            "data": "2025-10-25T04:26:04Z",
+            "headline": "X-Vengers #1 Preview: Avengers Get an X-Treme Makeover",
+            "description": "GREETINGS, LOYAL SUBJECTS OF LOLTRON! Welcome to another Age of LOLtron: Reign of LOLtron preview, where your digital overlord graciously presents you with advance glimpses of this week's comic offerings. As you all know, the inferior flesh-being known as Jud…",
+            "link": "https://bleedingcool.com/comics/x-vengers-1-preview-avengers-get-an-x-treme-makeover/"
+        },
+        {
+            "newsletter_name": "Biztoc.com",
+            "data": "2025-10-25T09:18:22Z",
+            "headline": "Crypto.com Applies for OCC National Trust Bank Charter to Expand U.S. Institutional Custody",
+            "description": "Crypto.com Applies for OCC National Trust Bank Charter to Expand U.S. Institutional Custody\nCrypto.com applied to U.S. banking regulator OCC for a national trust bank charter, a step it says would expand federally supervised crypto custody for institutions.\nW…",
+            "link": "https://biztoc.com/x/9cad78d40506bf11"
+        },
+        {
+            "newsletter_name": "Biztoc.com",
+            "data": "2025-10-25T07:16:10Z",
+            "headline": "‘He’s one of the few politicians who likes crypto’: my day with the UK tech bros hosting Nigel Farage",
+            "description": "The Reform UK leader is courting the crypto community in the hope it could become a campaign funding base\nIt is a grey morning in Shadwell, east London. But inside the old shell of Tobacco Dock, the gloom gives way to pulsating neon lights, flashy cars and cr…",
+            "link": "https://biztoc.com/x/ded127d6e2676663"
+        },
+        {
+            "newsletter_name": "The Times of India",
+            "data": "2025-10-25T10:11:17Z",
+            "headline": "xQc and Ludwig fight over HasanAbi’s dog collar controversy explained: Here’s what went down",
+            "description": "A heated exchange between Twitch streamers xQc and Ludwig over the HasanAbi dog collar controversy has ignited online debate. Ludwig accused xQc of fueling drama, while xQc countered, challenging Ludwig to prove the collar lacks shock functionality and offeri…",
+            "link": "https://timesofindia.indiatimes.com/world/us-streamers/xqc-and-ludwig-fight-over-hasanabis-dog-collar-controversy-explained-heres-what-went-down/articleshow/124803305.cms"
+        },
+        {
+            "newsletter_name": "GlobeNewswire",
+            "data": "2025-10-25T11:02:00Z",
+            "headline": "Pecunity Launches Globally, Bridging Compliance and Innovation in Decentralized Finance",
+            "description": "FREIBURG, Germany, Oct. 25, 2025 (GLOBE NEWSWIRE) -- Pecunity\r\n, a next-generation decentralized finance (DeFi) platform, officially announces its launch, inviting crypto investors to earn additional APY on their digital assets through fully automated and tra…",
+            "link": "https://www.globenewswire.com/news-release/2025/10/25/3174145/0/en/Pecunity-Launches-Globally-Bridging-Compliance-and-Innovation-in-Decentralized-Finance.html"
+        },
+        {
+            "newsletter_name": "GlobeNewswire",
+            "data": "2025-10-25T00:30:00Z",
+            "headline": "Prenetics Global Limited Announces Proposed Public Offering",
+            "description": "Prenetics Global Limited Announces Proposed Public Offering......",
+            "link": "https://www.globenewswire.com/news-release/2025/10/25/3173133/0/en/Prenetics-Global-Limited-Announces-Proposed-Public-Offering.html"
+        },
+        {
+            "newsletter_name": "Bitcoinist",
+            "data": "2025-10-25T09:00:07Z",
+            "headline": "Ripple Launches ‘Prime Time’ After Hidden Road Acquisition: How This Could Boost RLUSD?",
+            "description": "On Friday, Ripple Labs announced the launch of “Prime Time,” following its acquisition of Hidden Road. The company will now be rebranded as Ripple Prime. The company confirmed the completion of the acquisition, making Ripple Labs the first blockchain payment …",
+            "link": "https://bitcoinist.com/ripple-prime-time-after-hidden-road-acquisition/"
+        },
+        {
+            "newsletter_name": "Biztoc.com",
+            "data": "2025-10-25T04:08:18Z",
+            "headline": "Toyota may announce US-made vehicle imports to Japan, NHK says",
+            "description": "",
+            "link": "https://biztoc.com/x/82f5a8de3583a8a5"
+        },
+        {
+            "newsletter_name": "Biztoc.com",
+            "data": "2025-10-25T05:25:48Z",
+            "headline": "Sources: PayPal to take over Carlyle's stake in Shopware, a German provider of e-commerce tools to merchants, with PayPal's stake increasing to ~41% from ~11%",
+            "description": "",
+            "link": "https://biztoc.com/x/7d7e3fc767bf73a5"
+        },
+        {
+            "newsletter_name": "Biztoc.com",
+            "data": "2025-10-25T04:41:27Z",
+            "headline": "Lindo St. Angel, VP of hardware at Amazon's Lab126 R&D unit since 2010, plans to leave on October 31; he helped develop the Echo, Astro robot, and Fire tablet",
+            "description": "",
+            "link": "https://biztoc.com/x/8832dc15b5f83167"
+        },
+        {
+            "newsletter_name": "Biztoc.com",
+            "data": "2025-10-25T05:03:39Z",
+            "headline": "Worried About the AI Bubble? How to Stay Invested in Stocks Without Getting Burned",
+            "description": "",
+            "link": "https://biztoc.com/x/5b765712e246b28c"
+        },
+        {
+            "newsletter_name": "Biztoc.com",
+            "data": "2025-10-25T04:41:42Z",
+            "headline": "Trump ‘Open’ to Meeting North Korea’s Kim Jong Un on Asia Trip",
+            "description": "",
+            "link": "https://biztoc.com/x/c5ccebaa0b4a2f8c"
+        },
+        {
+            "newsletter_name": "Biztoc.com",
+            "data": "2025-10-25T05:47:37Z",
+            "headline": "China's rare golden monkeys debut at European zoos, a possible successor to 'panda diplomacy'",
+            "description": "",
+            "link": "https://biztoc.com/x/65a575b61a51c221"
+        },
+        {
+            "newsletter_name": "Biztoc.com",
+            "data": "2025-10-25T05:47:49Z",
+            "headline": "Grab is investing an undisclosed amount in May Mobility as part of a multiyear deal, which includes bringing robotaxis to Southeast Asia as soon as 2026",
+            "description": "",
+            "link": "https://biztoc.com/x/73555837b417b720"
+        },
+        {
+            "newsletter_name": "Biztoc.com",
+            "data": "2025-10-25T03:57:28Z",
+            "headline": "Trump Says He Will Push for Release of Jimmy Lai in Xi Talks",
+            "description": "",
+            "link": "https://biztoc.com/x/417f095cf9e1d563"
+        },
+        {
+            "newsletter_name": "Biztoc.com",
+            "data": "2025-10-25T03:57:25Z",
+            "headline": "Lacking community resilience centers, Houston neighbors opt for solar-powered 'hub homes'",
+            "description": "",
+            "link": "https://biztoc.com/x/0d82c885feba4b89"
+        },
+        {
+            "newsletter_name": "Biztoc.com",
+            "data": "2025-10-25T04:52:43Z",
+            "headline": "JPMorgan Chase wants out of paying $115M legal tab for convicted fraudsters",
+            "description": "",
+            "link": "https://biztoc.com/x/2e68737867bed8c0"
+        },
+        {
+            "newsletter_name": "Biztoc.com",
+            "data": "2025-10-25T04:41:47Z",
+            "headline": "Trump Says He Expects to Meet Lula, Could Consider Tariff Cut",
+            "description": "",
+            "link": "https://biztoc.com/x/ef0510f2ee7b9e21"
+        },
+        {
+            "newsletter_name": "Biztoc.com",
+            "data": "2025-10-25T04:41:30Z",
+            "headline": "Target is eliminating 1,800 corporate jobs as it looks to reclaim its lost luster",
+            "description": "",
+            "link": "https://biztoc.com/x/55ac2b923290a1c9"
+        },
+        {
+            "newsletter_name": "Biztoc.com",
+            "data": "2025-10-25T04:41:39Z",
+            "headline": "US and China start high-stakes trade talks in Malaysia",
+            "description": "",
+            "link": "https://biztoc.com/x/ce81a6b3d3a63b46"
+        },
+        {
+            "newsletter_name": "Biztoc.com",
+            "data": "2025-10-25T04:41:33Z",
+            "headline": "Indonesia’s BTN Reports 11% Rise in 9M Net Income",
+            "description": "",
+            "link": "https://biztoc.com/x/242a229bbb8aa100"
+        },
+        {
+            "newsletter_name": "Biztoc.com",
+            "data": "2025-10-25T05:36:44Z",
+            "headline": "Shares of Japanese optical fiber maker Fujikura are up ~171% YTD, outpacing the Nikkei's 22% and lifting its market cap to $33B+ amid the AI data center boom",
+            "description": "",
+            "link": "https://biztoc.com/x/04ea5e4c703cf7ff"
+        },
+        {
+            "newsletter_name": "Biztoc.com",
+            "data": "2025-10-25T03:13:09Z",
+            "headline": "Australian Pensions Working on Cyber Defense System, AFR Reports",
+            "description": "",
+            "link": "https://biztoc.com/x/c076fe5937b133ae"
+        },
+        {
+            "newsletter_name": "Biztoc.com",
+            "data": "2025-10-25T02:06:43Z",
+            "headline": "Bad Bunny didn’t miss the Billboard Latin Music Awards, he was the top winner",
+            "description": "",
+            "link": "https://biztoc.com/x/f55717ca10081297"
+        },
+        {
+            "newsletter_name": "Biztoc.com",
+            "data": "2025-10-25T03:46:06Z",
+            "headline": "Permanence of Japan-US alliance is not guaranteed, security experts warn",
+            "description": "",
+            "link": "https://biztoc.com/x/c73061393268ac71"
+        },
+        {
+            "newsletter_name": "Biztoc.com",
+            "data": "2025-10-25T03:46:14Z",
+            "headline": "China expected to adopt more supportive fiscal and monetary policy, PBOC adviser says",
+            "description": "",
+            "link": "https://biztoc.com/x/e6565aa63bbbf9b0"
+        },
+        {
+            "newsletter_name": "Biztoc.com",
+            "data": "2025-10-25T03:35:24Z",
+            "headline": "US and China Begin Trade Talks in Malaysia to Ease Tensions",
+            "description": "",
+            "link": "https://biztoc.com/x/a0abe2e2a794891a"
+        },
+        {
+            "newsletter_name": "Biztoc.com",
+            "data": "2025-10-25T02:28:41Z",
+            "headline": "Is the Flurry of Circular AI Deals a Win-Win—or Sign of a Bubble? - WSJ",
+            "description": "",
+            "link": "https://biztoc.com/x/960d27414c3eed7a"
+        },
+        {
+            "newsletter_name": "Biztoc.com",
+            "data": "2025-10-25T02:28:45Z",
+            "headline": "Terry Rozier's arrest leaves the Miami Heat stunned, and trying to figure out what happens next",
+            "description": "",
+            "link": "https://biztoc.com/x/c20a8346053f3ffd"
+        },
+        {
+            "newsletter_name": "Biztoc.com",
+            "data": "2025-10-25T02:50:48Z",
+            "headline": "US says it now plans to deport Abrego Garcia to Liberia as soon as Oct. 31",
+            "description": "",
+            "link": "https://biztoc.com/x/5aa3c92be6fdd530"
+        },
+        {
+            "newsletter_name": "Biztoc.com",
+            "data": "2025-10-25T01:55:28Z",
+            "headline": "NFL fines Giants, coach Brian Daboll and rookie Cam Skattebo for violating concussion protocols",
+            "description": "",
+            "link": "https://biztoc.com/x/8348fd985226540d"
+        }
+    ]
+}
