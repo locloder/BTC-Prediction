@@ -74,6 +74,7 @@ def save_to_json(articles, filename, time_period):
         print("Не знайдено жодної відповідної статті.")
         return
 
+    # Transform articles to the desired JSON structure
     news_data = {
         "metadata": {
             "report_title": "КРИПТОВАЛЮТНІ НОВИНИ",
