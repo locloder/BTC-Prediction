@@ -6,4 +6,4 @@ step 2: run parsing.py.
 
 step 3: run crypto.py.
 
-step 3: run ai_request.py.
+step 4: run ai_request.py.
