@@ -5,7 +5,7 @@ import sys
 import os
 import json
 
-output_folder = "parsing"
+output_folder = "data"
 os.makedirs(output_folder, exist_ok=True)
 
 NEWS_API_KEY = "d7f7f2f45ad14d1cbaa6f68952f8a8e1"
