@@ -12,7 +12,7 @@ import math
 
 
 class TimeSeriesPredictor:
-    def __init__(self, json_file_path="parsing/btc_prices.json", news_file_path=None):
+    def __init__(self, json_file_path="data/btc_prices.json", news_file_path=None):
         self.news_context = []
         self.price_history = []
         self.json_file_path = json_file_path

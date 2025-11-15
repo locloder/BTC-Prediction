@@ -6,7 +6,7 @@ import os
 import argparse
 import sys
 
-output_folder = "parsing"
+output_folder = "data"
 os.makedirs(output_folder, exist_ok=True)
 
 MAX_DAYS = 30
